@@ -960,6 +960,30 @@
           "content": "Ничего не сломано. Всё — урок.\n\nЖизнь — игра, в которую встроено обучение на своём опыте. Можно просто играть, а можно играть в создание новой игры. И там и там всё время учишься вытаскивать урок из происходящего.\n\nБоль уходит, как только научит тому, чему пришла научить. Вот и весь механизм. Страдание, которое осталось, — это невзятый урок.\n\nВсё есть практика. Всё есть учитель. Всё есть я — мир это я, смотрящий на себя с разных углов.\n\nКачество следующего опыта зависит от того, насколько хорошо интегрировал предыдущий. Лучше сделал домашку — лучше трип. Каждый раз.\n\nСпроси у любой ситуации одно: чему это меня учит?\n\nКаждая ситуация в моей жизни ведёт меня к моему благу. Я называю эту ситуацию благом."
         },
         {
+          "id": "english",
+          "title": "English",
+          "collection": {
+            "label": "cards",
+            "name": "Cards"
+          },
+          "categories": "",
+          "tags": "",
+          "url": "/english",
+          "content": "English isn&#8217;t a language any more, it&#8217;s the operating system of the world.\n\nEverything new shows up in English first. Without it you&#8217;re locked in a local bubble, and that bubble keeps getting murkier.\n\nEverything is locked behind English. The whole world is.\n\nLearn English. And read."
+        },
+        {
+          "id": "ru-english",
+          "title": "Английский",
+          "collection": {
+            "label": "cards",
+            "name": "Cards"
+          },
+          "categories": "",
+          "tags": "",
+          "url": "/ru/english",
+          "content": "Английский — уже не язык, это операционная система мира.\n\nВсё новое появляется на английском. Без него ты заперт в локальном пузыре. Который ещё и мутнеет.\n\nВсё защищено английским. Как и весь мир.\n\nУчи английский. И читай."
+        },
+        {
           "id": "mine-joy",
           "title": "Mine joy",
           "collection": {
@@ -1224,30 +1248,6 @@
           "content": "Ты ещё не узнал самое интересное.\n\nМир бесконечен и необъятен, за каждым поворотом новый.\n\nПривыкни читать. И всё, что тебе понадобится, ты сможешь просто прочесть.\n\nПереключи режим потребления на тот, который делает тебя лучше."
         },
         {
-          "id": "english",
-          "title": "English",
-          "collection": {
-            "label": "cards",
-            "name": "Cards"
-          },
-          "categories": "",
-          "tags": "",
-          "url": "/english",
-          "content": "English isn&#8217;t a language any more, it&#8217;s the operating system of the world.\n\nEverything new shows up in English first. Without it you&#8217;re locked in a local bubble, and that bubble keeps getting murkier.\n\nEverything is locked behind English. The whole world is.\n\nLearn English. And read."
-        },
-        {
-          "id": "ru-english",
-          "title": "Английский",
-          "collection": {
-            "label": "cards",
-            "name": "Cards"
-          },
-          "categories": "",
-          "tags": "",
-          "url": "/ru/english",
-          "content": "Английский — уже не язык, это операционная система мира.\n\nВсё новое появляется на английском. Без него ты заперт в локальном пузыре. Который ещё и мутнеет.\n\nВсё защищено английским. Как и весь мир.\n\nУчи английский. И читай."
-        },
-        {
           "id": "why-buddhism-is-true",
           "title": "Why Buddhism Is True",
           "collection": {
@@ -1366,6 +1366,30 @@
           "tags": "",
           "url": "/ru/lying",
           "content": "Харрис берёт самый мелкий случай — ложь во спасение — и показывает счёт.\n\nКаждая ложь делит мир надвое: как есть и как ты рассказал. Дальше обе версии надо содержать. Содержание и есть цена, и она растёт.\n\nЧестные люди становятся убежищем. Знаешь, что они не скажут одно в лицо, другое за спиной, — и рядом с ними можно не держать оборону.\n\nЭссе на один присест. Читай."
+        },
+        {
+          "id": "truth",
+          "title": "Truth",
+          "collection": {
+            "label": "cards",
+            "name": "Cards"
+          },
+          "categories": "",
+          "tags": "",
+          "url": "/truth",
+          "content": "There are many ways to tell the truth. The same fact can be framed to mislead, or to build exactly the illusion you need."
+        },
+        {
+          "id": "ru-truth",
+          "title": "Правда",
+          "collection": {
+            "label": "cards",
+            "name": "Cards"
+          },
+          "categories": "",
+          "tags": "",
+          "url": "/ru/truth",
+          "content": "Правду можно говорить по-разному. Один и тот же факт можно преподнести так, что он будет вводить в заблуждение или, наоборот, создавать нужную иллюзию."
         },
         {
           "id": "free-will",
