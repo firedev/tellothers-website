@@ -625,6 +625,18 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/read/" />
   </url>
   <url>
+    <loc>https://tellothers.com/cards/english/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/english/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/english/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/english/" />
+  </url>
+  <url>
+    <loc>https://tellothers.com/ru/cards/english/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/english/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/english/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/english/" />
+  </url>
+  <url>
     <loc>https://tellothers.com/cards/why-buddhism-is-true/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/why-buddhism-is-true/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/why-buddhism-is-true/" />
