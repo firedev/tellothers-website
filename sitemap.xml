@@ -11,32 +11,32 @@
     http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd">
 
         <url>
-          <loc>/404</loc>
+          <loc>https://tellothers.com/404</loc>
 
-              <xhtml:link rel="alternate" hreflang="x-default" href="/404" />
-              <xhtml:link rel="alternate" hreflang="en" href="/404" />
-
-          <lastmod>2026-05-24T22:44:42-07:00</lastmod>
-
-
-        </url>
-        <url>
-          <loc>/500</loc>
-
-              <xhtml:link rel="alternate" hreflang="x-default" href="/500" />
-              <xhtml:link rel="alternate" hreflang="en" href="/500" />
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/404" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/404" />
 
           <lastmod>2026-05-24T22:44:42-07:00</lastmod>
 
 
         </url>
         <url>
-          <loc>/bridgetown_quick_search/index.json</loc>
+          <loc>https://tellothers.com/500</loc>
 
-              <xhtml:link rel="alternate" hreflang="x-default" href="/bridgetown_quick_search/index.json" />
-              <xhtml:link rel="alternate" hreflang="en" href="/bridgetown_quick_search/index.json" />
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/500" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/500" />
 
-          <lastmod>2026-09-15T21:05:20-07:00</lastmod>
+          <lastmod>2026-05-24T22:44:42-07:00</lastmod>
+
+
+        </url>
+        <url>
+          <loc>https://tellothers.com/bridgetown_quick_search/index.json</loc>
+
+              <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/bridgetown_quick_search/index.json" />
+              <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/bridgetown_quick_search/index.json" />
+
+          <lastmod>2026-09-15T21:11:02-07:00</lastmod>
 
 
         </url>
