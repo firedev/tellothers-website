@@ -1200,6 +1200,30 @@
           "content": "Благодарите жизнь — и она отблагодарит вас. Всё просто. И всегда было.\n\nПосле недели благодарности у меня начался сильный подъём внутри.\n\nХорошее реально: радость, любовь, благодарность. Так и узнаёшь, что делать. Это ты. Остальное можно игнорировать.\n\nТитаник плывёт сам — подруливать можно только вниманием. Руль — ощущение благодарности и чувство радости. Находи в происходящем благодарность. Вселенная позаботится.\n\nЗамечай хорошее — и хорошего будет больше. Работает в паре с меттой: там желаешь добра, здесь его находишь.\n\nБлагодари — это противоядие от всего."
         },
         {
+          "id": "cards-read",
+          "title": "Read",
+          "collection": {
+            "label": "cards",
+            "name": "Cards"
+          },
+          "categories": "",
+          "tags": "",
+          "url": "/cards/read/",
+          "content": "You haven&#8217;t found out the best part yet.\n\nThe world is endless and vast, and around every corner there&#8217;s a new one.\n\nGet used to reading. Then anything you need, you can simply read."
+        },
+        {
+          "id": "ru-cards-read",
+          "title": "Читай",
+          "collection": {
+            "label": "cards",
+            "name": "Cards"
+          },
+          "categories": "",
+          "tags": "",
+          "url": "/ru/cards/read/",
+          "content": "Ты ещё не узнал самое интересное.\n\nМир бесконечен и необъятен, за каждым поворотом новый.\n\nПривыкни читать. И всё, что тебе понадобится, ты сможешь просто прочесть."
+        },
+        {
           "id": "cards-why-buddhism-is-true",
           "title": "Why Buddhism Is True",
           "collection": {
