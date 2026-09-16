@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tellothers.com/404</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/404" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/404" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/404" />
+  </url>
+  <url>
+    <loc>https://tellothers.com/500</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/500" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/500" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/500" />
+  </url>
+  <url>
     <loc>https://tellothers.com/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/" />
@@ -13,951 +25,951 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/be-kind/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/be-kind/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/be-kind/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/be-kind/" />
+    <loc>https://tellothers.com/be-kind</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/be-kind" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/be-kind" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/be-kind" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/be-kind/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/be-kind/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/be-kind/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/be-kind/" />
+    <loc>https://tellothers.com/ru/be-kind</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/be-kind" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/be-kind" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/be-kind" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/universe-through-others/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/universe-through-others/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/universe-through-others/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/universe-through-others/" />
+    <loc>https://tellothers.com/universe-through-others</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/universe-through-others" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/universe-through-others" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/universe-through-others" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/universe-through-others/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/universe-through-others/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/universe-through-others/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/universe-through-others/" />
+    <loc>https://tellothers.com/ru/universe-through-others</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/universe-through-others" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/universe-through-others" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/universe-through-others" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/never-dive-alone/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/never-dive-alone/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/never-dive-alone/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/never-dive-alone/" />
+    <loc>https://tellothers.com/never-dive-alone</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/never-dive-alone" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/never-dive-alone" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/never-dive-alone" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/never-dive-alone/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/never-dive-alone/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/never-dive-alone/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/never-dive-alone/" />
+    <loc>https://tellothers.com/ru/never-dive-alone</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/never-dive-alone" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/never-dive-alone" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/never-dive-alone" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/tell-others/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/tell-others/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/tell-others/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/tell-others/" />
+    <loc>https://tellothers.com/tell-others</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/tell-others" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/tell-others" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/tell-others" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/tell-others/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/tell-others/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/tell-others/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/tell-others/" />
+    <loc>https://tellothers.com/ru/tell-others</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/tell-others" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/tell-others" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/tell-others" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/love-family/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/love-family/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/love-family/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/love-family/" />
+    <loc>https://tellothers.com/love-family</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/love-family" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/love-family" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/love-family" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/love-family/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/love-family/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/love-family/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/love-family/" />
+    <loc>https://tellothers.com/ru/love-family</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/love-family" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/love-family" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/love-family" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/speak-about-yourself/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/speak-about-yourself/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/speak-about-yourself/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/speak-about-yourself/" />
+    <loc>https://tellothers.com/speak-about-yourself</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/speak-about-yourself" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/speak-about-yourself" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/speak-about-yourself" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/speak-about-yourself/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/speak-about-yourself/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/speak-about-yourself/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/speak-about-yourself/" />
+    <loc>https://tellothers.com/ru/speak-about-yourself</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/speak-about-yourself" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/speak-about-yourself" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/speak-about-yourself" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/no-slavery/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/no-slavery/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/no-slavery/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/no-slavery/" />
+    <loc>https://tellothers.com/no-slavery</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/no-slavery" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/no-slavery" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/no-slavery" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/no-slavery/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/no-slavery/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/no-slavery/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/no-slavery/" />
+    <loc>https://tellothers.com/ru/no-slavery</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/no-slavery" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/no-slavery" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/no-slavery" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/opt-out/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/opt-out/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/opt-out/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/opt-out/" />
+    <loc>https://tellothers.com/opt-out</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/opt-out" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/opt-out" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/opt-out" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/opt-out/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/opt-out/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/opt-out/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/opt-out/" />
+    <loc>https://tellothers.com/ru/opt-out</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/opt-out" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/opt-out" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/opt-out" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/no-offense/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/no-offense/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/no-offense/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/no-offense/" />
+    <loc>https://tellothers.com/no-offense</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/no-offense" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/no-offense" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/no-offense" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/no-offense/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/no-offense/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/no-offense/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/no-offense/" />
+    <loc>https://tellothers.com/ru/no-offense</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/no-offense" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/no-offense" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/no-offense" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/compound/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/compound/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/compound/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/compound/" />
+    <loc>https://tellothers.com/compound</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/compound" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/compound" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/compound" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/compound/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/compound/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/compound/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/compound/" />
+    <loc>https://tellothers.com/ru/compound</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/compound" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/compound" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/compound" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/money-flow/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/money-flow/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/money-flow/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/money-flow/" />
+    <loc>https://tellothers.com/money-flow</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/money-flow" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/money-flow" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/money-flow" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/money-flow/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/money-flow/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/money-flow/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/money-flow/" />
+    <loc>https://tellothers.com/ru/money-flow</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/money-flow" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/money-flow" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/money-flow" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/try-freediving/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/try-freediving/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/try-freediving/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/try-freediving/" />
+    <loc>https://tellothers.com/try-freediving</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/try-freediving" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/try-freediving" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/try-freediving" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/try-freediving/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/try-freediving/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/try-freediving/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/try-freediving/" />
+    <loc>https://tellothers.com/ru/try-freediving</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/try-freediving" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/try-freediving" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/try-freediving" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/try-microdosing/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/try-microdosing/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/try-microdosing/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/try-microdosing/" />
+    <loc>https://tellothers.com/supplements</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/supplements" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/supplements" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/supplements" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/try-microdosing/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/try-microdosing/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/try-microdosing/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/try-microdosing/" />
+    <loc>https://tellothers.com/ru/supplements</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/supplements" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/supplements" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/supplements" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/surrender/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/surrender/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/surrender/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/surrender/" />
+    <loc>https://tellothers.com/surrender</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/surrender" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/surrender" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/surrender" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/surrender/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/surrender/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/surrender/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/surrender/" />
+    <loc>https://tellothers.com/ru/surrender</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/surrender" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/surrender" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/surrender" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/dont-drink/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/dont-drink/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/dont-drink/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/dont-drink/" />
+    <loc>https://tellothers.com/dont-drink</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/dont-drink" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/dont-drink" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/dont-drink" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/dont-drink/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/dont-drink/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/dont-drink/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/dont-drink/" />
+    <loc>https://tellothers.com/ru/dont-drink</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/dont-drink" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/dont-drink" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/dont-drink" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/all-for-the-brain/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/all-for-the-brain/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/all-for-the-brain/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/all-for-the-brain/" />
+    <loc>https://tellothers.com/all-for-the-brain</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/all-for-the-brain" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/all-for-the-brain" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/all-for-the-brain" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/all-for-the-brain/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/all-for-the-brain/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/all-for-the-brain/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/all-for-the-brain/" />
+    <loc>https://tellothers.com/ru/all-for-the-brain</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/all-for-the-brain" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/all-for-the-brain" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/all-for-the-brain" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/body-friend/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/body-friend/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/body-friend/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/body-friend/" />
+    <loc>https://tellothers.com/body-friend</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/body-friend" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/body-friend" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/body-friend" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/body-friend/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/body-friend/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/body-friend/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/body-friend/" />
+    <loc>https://tellothers.com/ru/body-friend</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/body-friend" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/body-friend" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/body-friend" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/skip-breakfast/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/skip-breakfast/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/skip-breakfast/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/skip-breakfast/" />
+    <loc>https://tellothers.com/skip-breakfast</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/skip-breakfast" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/skip-breakfast" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/skip-breakfast" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/skip-breakfast/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/skip-breakfast/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/skip-breakfast/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/skip-breakfast/" />
+    <loc>https://tellothers.com/ru/skip-breakfast</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/skip-breakfast" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/skip-breakfast" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/skip-breakfast" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/sit-still/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/sit-still/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/sit-still/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/sit-still/" />
+    <loc>https://tellothers.com/sit-still</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/sit-still" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/sit-still" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/sit-still" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/sit-still/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/sit-still/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/sit-still/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/sit-still/" />
+    <loc>https://tellothers.com/ru/sit-still</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/sit-still" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/sit-still" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/sit-still" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/dont-believe-thoughts/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/dont-believe-thoughts/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/dont-believe-thoughts/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/dont-believe-thoughts/" />
+    <loc>https://tellothers.com/dont-believe-thoughts</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/dont-believe-thoughts" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/dont-believe-thoughts" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/dont-believe-thoughts" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/dont-believe-thoughts/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/dont-believe-thoughts/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/dont-believe-thoughts/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/dont-believe-thoughts/" />
+    <loc>https://tellothers.com/ru/dont-believe-thoughts</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/dont-believe-thoughts" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/dont-believe-thoughts" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/dont-believe-thoughts" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/try-macrodosing/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/try-macrodosing/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/try-macrodosing/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/try-macrodosing/" />
+    <loc>https://tellothers.com/microdosing</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/microdosing" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/microdosing" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/microdosing" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/try-macrodosing/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/try-macrodosing/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/try-macrodosing/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/try-macrodosing/" />
+    <loc>https://tellothers.com/ru/microdosing</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/microdosing" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/microdosing" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/microdosing" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/catch-the-autopilot/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/catch-the-autopilot/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/catch-the-autopilot/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/catch-the-autopilot/" />
+    <loc>https://tellothers.com/catch-the-autopilot</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/catch-the-autopilot" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/catch-the-autopilot" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/catch-the-autopilot" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/catch-the-autopilot/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/catch-the-autopilot/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/catch-the-autopilot/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/catch-the-autopilot/" />
+    <loc>https://tellothers.com/ru/catch-the-autopilot</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/catch-the-autopilot" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/catch-the-autopilot" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/catch-the-autopilot" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/brain-receiver/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/brain-receiver/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/brain-receiver/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/brain-receiver/" />
+    <loc>https://tellothers.com/brain-receiver</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/brain-receiver" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/brain-receiver" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/brain-receiver" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/brain-receiver/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/brain-receiver/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/brain-receiver/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/brain-receiver/" />
+    <loc>https://tellothers.com/ru/brain-receiver</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/brain-receiver" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/brain-receiver" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/brain-receiver" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/learn-buddhism/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/learn-buddhism/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/learn-buddhism/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/learn-buddhism/" />
+    <loc>https://tellothers.com/learn-buddhism</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/learn-buddhism" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/learn-buddhism" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/learn-buddhism" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/learn-buddhism/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/learn-buddhism/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/learn-buddhism/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/learn-buddhism/" />
+    <loc>https://tellothers.com/ru/learn-buddhism</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/learn-buddhism" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/learn-buddhism" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/learn-buddhism" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/question-reality/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/question-reality/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/question-reality/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/question-reality/" />
+    <loc>https://tellothers.com/question-reality</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/question-reality" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/question-reality" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/question-reality" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/question-reality/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/question-reality/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/question-reality/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/question-reality/" />
+    <loc>https://tellothers.com/ru/question-reality</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/question-reality" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/question-reality" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/question-reality" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/grow-inward/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/grow-inward/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/grow-inward/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/grow-inward/" />
+    <loc>https://tellothers.com/grow-inward</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/grow-inward" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/grow-inward" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/grow-inward" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/grow-inward/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/grow-inward/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/grow-inward/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/grow-inward/" />
+    <loc>https://tellothers.com/ru/grow-inward</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/grow-inward" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/grow-inward" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/grow-inward" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/spacesuit/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/spacesuit/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/spacesuit/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/spacesuit/" />
+    <loc>https://tellothers.com/spacesuit</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/spacesuit" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/spacesuit" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/spacesuit" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/spacesuit/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/spacesuit/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/spacesuit/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/spacesuit/" />
+    <loc>https://tellothers.com/ru/spacesuit</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/spacesuit" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/spacesuit" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/spacesuit" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/inner-parasite/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/inner-parasite/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/inner-parasite/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/inner-parasite/" />
+    <loc>https://tellothers.com/inner-parasite</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/inner-parasite" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/inner-parasite" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/inner-parasite" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/inner-parasite/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/inner-parasite/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/inner-parasite/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/inner-parasite/" />
+    <loc>https://tellothers.com/ru/inner-parasite</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/inner-parasite" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/inner-parasite" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/inner-parasite" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/see-wider/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/see-wider/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/see-wider/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/see-wider/" />
+    <loc>https://tellothers.com/see-wider</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/see-wider" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/see-wider" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/see-wider" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/see-wider/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/see-wider/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/see-wider/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/see-wider/" />
+    <loc>https://tellothers.com/ru/see-wider</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/see-wider" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/see-wider" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/see-wider" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/drop-suffering/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/drop-suffering/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/drop-suffering/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/drop-suffering/" />
+    <loc>https://tellothers.com/drop-suffering</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/drop-suffering" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/drop-suffering" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/drop-suffering" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/drop-suffering/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/drop-suffering/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/drop-suffering/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/drop-suffering/" />
+    <loc>https://tellothers.com/ru/drop-suffering</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/drop-suffering" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/drop-suffering" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/drop-suffering" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/my-world/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/my-world/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/my-world/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/my-world/" />
+    <loc>https://tellothers.com/my-world</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/my-world" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/my-world" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/my-world" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/my-world/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/my-world/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/my-world/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/my-world/" />
+    <loc>https://tellothers.com/ru/my-world</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/my-world" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/my-world" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/my-world" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/through-not-around/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/through-not-around/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/through-not-around/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/through-not-around/" />
+    <loc>https://tellothers.com/through-not-around</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/through-not-around" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/through-not-around" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/through-not-around" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/through-not-around/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/through-not-around/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/through-not-around/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/through-not-around/" />
+    <loc>https://tellothers.com/ru/through-not-around</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/through-not-around" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/through-not-around" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/through-not-around" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/write/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/write/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/write/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/write/" />
+    <loc>https://tellothers.com/write</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/write" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/write" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/write" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/write/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/write/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/write/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/write/" />
+    <loc>https://tellothers.com/ru/write</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/write" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/write" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/write" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/talk-yourself-out/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/talk-yourself-out/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/talk-yourself-out/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/talk-yourself-out/" />
+    <loc>https://tellothers.com/talk-yourself-out</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/talk-yourself-out" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/talk-yourself-out" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/talk-yourself-out" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/talk-yourself-out/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/talk-yourself-out/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/talk-yourself-out/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/talk-yourself-out/" />
+    <loc>https://tellothers.com/ru/talk-yourself-out</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/talk-yourself-out" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/talk-yourself-out" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/talk-yourself-out" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/life-shelves/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/life-shelves/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/life-shelves/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/life-shelves/" />
+    <loc>https://tellothers.com/life-shelves</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/life-shelves" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/life-shelves" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/life-shelves" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/life-shelves/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/life-shelves/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/life-shelves/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/life-shelves/" />
+    <loc>https://tellothers.com/ru/life-shelves</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/life-shelves" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/life-shelves" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/life-shelves" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/locate-control-inside/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/locate-control-inside/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/locate-control-inside/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/locate-control-inside/" />
+    <loc>https://tellothers.com/locate-control-inside</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/locate-control-inside" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/locate-control-inside" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/locate-control-inside" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/locate-control-inside/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/locate-control-inside/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/locate-control-inside/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/locate-control-inside/" />
+    <loc>https://tellothers.com/ru/locate-control-inside</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/locate-control-inside" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/locate-control-inside" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/locate-control-inside" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/stop-doubting/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/stop-doubting/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/stop-doubting/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/stop-doubting/" />
+    <loc>https://tellothers.com/stop-doubting</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/stop-doubting" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/stop-doubting" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/stop-doubting" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/stop-doubting/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/stop-doubting/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/stop-doubting/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/stop-doubting/" />
+    <loc>https://tellothers.com/ru/stop-doubting</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/stop-doubting" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/stop-doubting" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/stop-doubting" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/level-up/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/level-up/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/level-up/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/level-up/" />
+    <loc>https://tellothers.com/level-up</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/level-up" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/level-up" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/level-up" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/level-up/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/level-up/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/level-up/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/level-up/" />
+    <loc>https://tellothers.com/ru/level-up</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/level-up" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/level-up" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/level-up" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/do-not-lie/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/do-not-lie/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/do-not-lie/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/do-not-lie/" />
+    <loc>https://tellothers.com/do-not-lie</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/do-not-lie" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/do-not-lie" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/do-not-lie" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/do-not-lie/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/do-not-lie/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/do-not-lie/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/do-not-lie/" />
+    <loc>https://tellothers.com/ru/do-not-lie</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/do-not-lie" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/do-not-lie" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/do-not-lie" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/everything-is-a-lesson/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/everything-is-a-lesson/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/everything-is-a-lesson/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/everything-is-a-lesson/" />
+    <loc>https://tellothers.com/everything-is-a-lesson</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/everything-is-a-lesson" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/everything-is-a-lesson" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/everything-is-a-lesson" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/everything-is-a-lesson/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/everything-is-a-lesson/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/everything-is-a-lesson/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/everything-is-a-lesson/" />
+    <loc>https://tellothers.com/ru/everything-is-a-lesson</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/everything-is-a-lesson" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/everything-is-a-lesson" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/everything-is-a-lesson" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/mine-joy/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/mine-joy/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/mine-joy/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/mine-joy/" />
+    <loc>https://tellothers.com/mine-joy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/mine-joy" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/mine-joy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/mine-joy" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/mine-joy/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/mine-joy/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/mine-joy/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/mine-joy/" />
+    <loc>https://tellothers.com/ru/mine-joy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/mine-joy" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/mine-joy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/mine-joy" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/boredom-is-joy/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/boredom-is-joy/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/boredom-is-joy/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/boredom-is-joy/" />
+    <loc>https://tellothers.com/boredom-is-joy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/boredom-is-joy" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/boredom-is-joy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/boredom-is-joy" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/boredom-is-joy/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/boredom-is-joy/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/boredom-is-joy/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/boredom-is-joy/" />
+    <loc>https://tellothers.com/ru/boredom-is-joy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/boredom-is-joy" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/boredom-is-joy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/boredom-is-joy" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/the-day-only-gets-better/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/the-day-only-gets-better/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/the-day-only-gets-better/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/the-day-only-gets-better/" />
+    <loc>https://tellothers.com/the-day-only-gets-better</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/the-day-only-gets-better" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/the-day-only-gets-better" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/the-day-only-gets-better" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/the-day-only-gets-better/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/the-day-only-gets-better/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/the-day-only-gets-better/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/the-day-only-gets-better/" />
+    <loc>https://tellothers.com/ru/the-day-only-gets-better</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/the-day-only-gets-better" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/the-day-only-gets-better" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/the-day-only-gets-better" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/do-what-you-like/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/do-what-you-like/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/do-what-you-like/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/do-what-you-like/" />
+    <loc>https://tellothers.com/do-what-you-like</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/do-what-you-like" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/do-what-you-like" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/do-what-you-like" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/do-what-you-like/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/do-what-you-like/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/do-what-you-like/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/do-what-you-like/" />
+    <loc>https://tellothers.com/ru/do-what-you-like</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/do-what-you-like" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/do-what-you-like" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/do-what-you-like" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/love-life/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/love-life/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/love-life/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/love-life/" />
+    <loc>https://tellothers.com/love-life</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/love-life" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/love-life" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/love-life" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/love-life/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/love-life/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/love-life/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/love-life/" />
+    <loc>https://tellothers.com/ru/love-life</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/love-life" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/love-life" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/love-life" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/true-desires/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/true-desires/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/true-desires/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/true-desires/" />
+    <loc>https://tellothers.com/true-desires</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/true-desires" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/true-desires" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/true-desires" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/true-desires/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/true-desires/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/true-desires/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/true-desires/" />
+    <loc>https://tellothers.com/ru/true-desires</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/true-desires" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/true-desires" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/true-desires" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/best-world/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/best-world/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/best-world/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/best-world/" />
+    <loc>https://tellothers.com/best-world</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/best-world" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/best-world" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/best-world" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/best-world/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/best-world/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/best-world/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/best-world/" />
+    <loc>https://tellothers.com/ru/best-world</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/best-world" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/best-world" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/best-world" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/dont-wait/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/dont-wait/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/dont-wait/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/dont-wait/" />
+    <loc>https://tellothers.com/dont-wait</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/dont-wait" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/dont-wait" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/dont-wait" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/dont-wait/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/dont-wait/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/dont-wait/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/dont-wait/" />
+    <loc>https://tellothers.com/ru/dont-wait</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/dont-wait" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/dont-wait" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/dont-wait" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/life-is-all-we-got/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/life-is-all-we-got/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/life-is-all-we-got/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/life-is-all-we-got/" />
+    <loc>https://tellothers.com/life-is-all-we-got</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/life-is-all-we-got" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/life-is-all-we-got" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/life-is-all-we-got" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/life-is-all-we-got/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/life-is-all-we-got/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/life-is-all-we-got/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/life-is-all-we-got/" />
+    <loc>https://tellothers.com/ru/life-is-all-we-got</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/life-is-all-we-got" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/life-is-all-we-got" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/life-is-all-we-got" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/give-thanks/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/give-thanks/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/give-thanks/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/give-thanks/" />
+    <loc>https://tellothers.com/give-thanks</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/give-thanks" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/give-thanks" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/give-thanks" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/give-thanks/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/give-thanks/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/give-thanks/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/give-thanks/" />
+    <loc>https://tellothers.com/ru/give-thanks</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/give-thanks" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/give-thanks" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/give-thanks" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/read/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/read/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/read/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/read/" />
+    <loc>https://tellothers.com/read</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/read" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/read" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/read" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/read/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/read/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/read/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/read/" />
+    <loc>https://tellothers.com/ru/read</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/read" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/read" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/read" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/english/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/english/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/english/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/english/" />
+    <loc>https://tellothers.com/english</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/english" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/english" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/english" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/english/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/english/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/english/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/english/" />
+    <loc>https://tellothers.com/ru/english</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/english" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/english" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/english" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/why-buddhism-is-true/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/why-buddhism-is-true/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/why-buddhism-is-true/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/why-buddhism-is-true/" />
+    <loc>https://tellothers.com/why-buddhism-is-true</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/why-buddhism-is-true" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/why-buddhism-is-true" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/why-buddhism-is-true" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/why-buddhism-is-true/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/why-buddhism-is-true/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/why-buddhism-is-true/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/why-buddhism-is-true/" />
+    <loc>https://tellothers.com/ru/why-buddhism-is-true</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/why-buddhism-is-true" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/why-buddhism-is-true" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/why-buddhism-is-true" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/how-i-found-freedom/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/how-i-found-freedom/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/how-i-found-freedom/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/how-i-found-freedom/" />
+    <loc>https://tellothers.com/how-i-found-freedom</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/how-i-found-freedom" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/how-i-found-freedom" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/how-i-found-freedom" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/how-i-found-freedom/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/how-i-found-freedom/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/how-i-found-freedom/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/how-i-found-freedom/" />
+    <loc>https://tellothers.com/ru/how-i-found-freedom</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/how-i-found-freedom" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/how-i-found-freedom" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/how-i-found-freedom" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/12-rules-for-life/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/12-rules-for-life/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/12-rules-for-life/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/12-rules-for-life/" />
+    <loc>https://tellothers.com/12-rules-for-life</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/12-rules-for-life" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/12-rules-for-life" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/12-rules-for-life" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/12-rules-for-life/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/12-rules-for-life/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/12-rules-for-life/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/12-rules-for-life/" />
+    <loc>https://tellothers.com/ru/12-rules-for-life</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/12-rules-for-life" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/12-rules-for-life" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/12-rules-for-life" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/the-hermit-and-six-toes/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/the-hermit-and-six-toes/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/the-hermit-and-six-toes/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/the-hermit-and-six-toes/" />
+    <loc>https://tellothers.com/the-hermit-and-six-toes</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/the-hermit-and-six-toes" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/the-hermit-and-six-toes" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/the-hermit-and-six-toes" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/the-hermit-and-six-toes/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/the-hermit-and-six-toes/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/the-hermit-and-six-toes/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/the-hermit-and-six-toes/" />
+    <loc>https://tellothers.com/ru/the-hermit-and-six-toes</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/the-hermit-and-six-toes" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/the-hermit-and-six-toes" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/the-hermit-and-six-toes" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/lying/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/lying/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/lying/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/lying/" />
+    <loc>https://tellothers.com/lying</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/lying" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/lying" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/lying" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/lying/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/lying/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/lying/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/lying/" />
+    <loc>https://tellothers.com/ru/lying</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/lying" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/lying" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/lying" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/free-will/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/free-will/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/free-will/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/free-will/" />
+    <loc>https://tellothers.com/free-will</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/free-will" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/free-will" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/free-will" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/free-will/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/free-will/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/free-will/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/free-will/" />
+    <loc>https://tellothers.com/ru/free-will</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/free-will" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/free-will" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/free-will" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/karma/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/karma/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/karma/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/karma/" />
+    <loc>https://tellothers.com/karma</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/karma" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/karma" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/karma" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/karma/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/karma/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/karma/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/karma/" />
+    <loc>https://tellothers.com/ru/karma</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/karma" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/karma" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/karma" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/krishna/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/krishna/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/krishna/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/krishna/" />
+    <loc>https://tellothers.com/krishna</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/krishna" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/krishna" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/krishna" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/krishna/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/krishna/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/krishna/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/krishna/" />
+    <loc>https://tellothers.com/ru/krishna</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/krishna" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/krishna" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/krishna" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/ganesha/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/ganesha/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/ganesha/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/ganesha/" />
+    <loc>https://tellothers.com/ganesha</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/ganesha" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/ganesha" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/ganesha" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/ganesha/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/ganesha/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/ganesha/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/ganesha/" />
+    <loc>https://tellothers.com/ru/ganesha</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/ganesha" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/ganesha" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/ganesha" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/shiva/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/shiva/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/shiva/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/shiva/" />
+    <loc>https://tellothers.com/shiva</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/shiva" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/shiva" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/shiva" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/shiva/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/shiva/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/shiva/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/shiva/" />
+    <loc>https://tellothers.com/ru/shiva</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/shiva" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/shiva" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/shiva" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/suffering/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/suffering/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/suffering/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/suffering/" />
+    <loc>https://tellothers.com/suffering</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/suffering" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/suffering" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/suffering" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/suffering/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/suffering/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/suffering/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/suffering/" />
+    <loc>https://tellothers.com/ru/suffering</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/suffering" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/suffering" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/suffering" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/dharma/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/dharma/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/dharma/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/dharma/" />
+    <loc>https://tellothers.com/dharma</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/dharma" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/dharma" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/dharma" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/dharma/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/dharma/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/dharma/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/dharma/" />
+    <loc>https://tellothers.com/ru/dharma</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/dharma" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/dharma" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/dharma" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/samsara/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/samsara/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/samsara/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/samsara/" />
+    <loc>https://tellothers.com/samsara</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/samsara" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/samsara" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/samsara" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/samsara/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/samsara/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/samsara/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/samsara/" />
+    <loc>https://tellothers.com/ru/samsara</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/samsara" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/samsara" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/samsara" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/nirvana/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/nirvana/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/nirvana/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/nirvana/" />
+    <loc>https://tellothers.com/nirvana</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/nirvana" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/nirvana" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/nirvana" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/nirvana/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/nirvana/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/nirvana/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/nirvana/" />
+    <loc>https://tellothers.com/ru/nirvana</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/nirvana" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/nirvana" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/nirvana" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/maya/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/maya/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/maya/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/maya/" />
+    <loc>https://tellothers.com/maya</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/maya" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/maya" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/maya" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/maya/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/maya/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/maya/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/maya/" />
+    <loc>https://tellothers.com/ru/maya</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/maya" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/maya" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/maya" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/advaita/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/advaita/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/advaita/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/advaita/" />
+    <loc>https://tellothers.com/advaita</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/advaita" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/advaita" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/advaita" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/advaita/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/advaita/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/advaita/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/advaita/" />
+    <loc>https://tellothers.com/ru/advaita</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/advaita" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/advaita" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/advaita" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/samadhi/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/samadhi/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/samadhi/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/samadhi/" />
+    <loc>https://tellothers.com/samadhi</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/samadhi" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/samadhi" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/samadhi" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/samadhi/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/samadhi/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/samadhi/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/samadhi/" />
+    <loc>https://tellothers.com/ru/samadhi</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/samadhi" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/samadhi" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/samadhi" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/vipassana/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/vipassana/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/vipassana/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/vipassana/" />
+    <loc>https://tellothers.com/vipassana</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/vipassana" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/vipassana" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/vipassana" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/vipassana/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/vipassana/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/vipassana/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/vipassana/" />
+    <loc>https://tellothers.com/ru/vipassana</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/vipassana" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/vipassana" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/vipassana" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/metta/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/metta/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/metta/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/metta/" />
+    <loc>https://tellothers.com/metta</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/metta" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/metta" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/metta" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/metta/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/metta/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/metta/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/metta/" />
+    <loc>https://tellothers.com/ru/metta</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/metta" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/metta" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/metta" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/atman/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/atman/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/atman/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/atman/" />
+    <loc>https://tellothers.com/atman</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/atman" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/atman" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/atman" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/atman/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/atman/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/atman/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/atman/" />
+    <loc>https://tellothers.com/ru/atman</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/atman" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/atman" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/atman" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/brahman/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/brahman/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/brahman/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/brahman/" />
+    <loc>https://tellothers.com/brahman</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/brahman" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/brahman" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/brahman" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/brahman/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/brahman/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/brahman/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/brahman/" />
+    <loc>https://tellothers.com/ru/brahman</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/brahman" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/brahman" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/brahman" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/anatta/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/anatta/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/anatta/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/anatta/" />
+    <loc>https://tellothers.com/anatta</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/anatta" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/anatta" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/anatta" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/anatta/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/anatta/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/anatta/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/anatta/" />
+    <loc>https://tellothers.com/ru/anatta</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/anatta" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/anatta" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/anatta" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/anicca/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/anicca/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/anicca/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/anicca/" />
+    <loc>https://tellothers.com/anicca</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/anicca" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/anicca" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/anicca" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/anicca/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/anicca/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/anicca/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/anicca/" />
+    <loc>https://tellothers.com/ru/anicca</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/anicca" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/anicca" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/anicca" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/shunyata/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/shunyata/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/shunyata/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/shunyata/" />
+    <loc>https://tellothers.com/shunyata</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/shunyata" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/shunyata" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/shunyata" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/shunyata/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/shunyata/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/shunyata/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/shunyata/" />
+    <loc>https://tellothers.com/ru/shunyata</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/shunyata" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/shunyata" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/shunyata" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/satori/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/satori/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/satori/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/satori/" />
+    <loc>https://tellothers.com/satori</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/satori" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/satori" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/satori" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/satori/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/satori/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/satori/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/satori/" />
+    <loc>https://tellothers.com/ru/satori</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/satori" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/satori" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/satori" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/jhanas/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/jhanas/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/jhanas/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/jhanas/" />
+    <loc>https://tellothers.com/jhanas</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/jhanas" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/jhanas" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/jhanas" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/jhanas/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/jhanas/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/jhanas/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/jhanas/" />
+    <loc>https://tellothers.com/ru/jhanas</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/jhanas" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/jhanas" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/jhanas" />
   </url>
   <url>
-    <loc>https://tellothers.com/cards/turiya/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/turiya/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/turiya/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/turiya/" />
+    <loc>https://tellothers.com/turiya</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/turiya" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/turiya" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/turiya" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/cards/turiya/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/cards/turiya/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/cards/turiya/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/cards/turiya/" />
+    <loc>https://tellothers.com/ru/turiya</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/turiya" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/turiya" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/turiya" />
   </url>
 </urlset>
