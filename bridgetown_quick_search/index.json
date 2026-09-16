@@ -1,7 +1,7 @@
 [
         {
           "id": "cards-be-kind",
-          "title": "Be kind",
+          "title": "Be kinder",
           "collection": {
             "label": "cards",
             "name": "Cards"
@@ -13,7 +13,7 @@
         },
         {
           "id": "ru-cards-be-kind",
-          "title": "Будь добрым",
+          "title": "Будьте добрее",
           "collection": {
             "label": "cards",
             "name": "Cards"
