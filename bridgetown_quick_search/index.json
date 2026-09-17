@@ -1057,7 +1057,7 @@
         },
         {
           "id": "dont-wait",
-          "title": "Don't wait",
+          "title": "Everything is now",
           "collection": {
             "label": "cards",
             "name": "Cards"
@@ -1065,11 +1065,11 @@
           "categories": "",
           "tags": "",
           "url": "/dont-wait",
-          "content": "You hear it all the time: “No time to relax.” “We’ll rest when we’re dead.”\n\nMeanwhile, there’s a sign at a cemetery: “Attention! Resting on cemetery grounds is strictly prohibited. Fine: 10,000 rubles.”\n\nBest reminder I know. Resting is for the living — later it’s against the rules.\n\nYou don’t work music, you play it. It’s not a race to the final note. Same with life: it’s not about reaching retirement faster.\n\nLife is too short to do what I have to do. It’s long enough to do what I want to do.\n\nRest while alive. Try it, say it, go there — now, while the window is open."
+          "content": "Life is too short to do what I have to do. It’s long enough to do what I want to do.\n\nTry it, say it, go there — now, while the window is open.\n\nDon’t wait."
         },
         {
           "id": "ru-dont-wait",
-          "title": "Не жди",
+          "title": "Всё — сейчас",
           "collection": {
             "label": "cards",
             "name": "Cards"
@@ -1077,7 +1077,31 @@
           "categories": "",
           "tags": "",
           "url": "/ru/dont-wait",
-          "content": "Постоянно слышишь вокруг: «Некогда расслабляться», «На том свете отдохнём».\n\nА на кладбище висит табличка: «Внимание! Отдых на территории кладбища строго запрещён. Штраф 10 000 руб.»\n\nЛучшее напоминание из всех, что я видел. Отдыхать можно живым — потом запрещено.\n\nМузыку не работают, а играют. Она не для того, чтобы быстрей добраться до последней ноты. Так и жизнь не для того, чтобы быстрей добраться до пенсии.\n\nЖизнь слишком коротка, чтобы делать то, что должен. И достаточно длинна, чтобы делать то, что хочу.\n\nОтдыхай при жизни. Попробуй, скажи, съезди — сейчас, пока окно открыто."
+          "content": "Жизнь слишком коротка, чтобы делать то, что должен. И достаточно длинна, чтобы делать то, что хочу.\n\nПопробуй, скажи, съезди — сейчас, пока окно открыто.\n\nНе жди."
+        },
+        {
+          "id": "dont-get-tired",
+          "title": "Don't get tired",
+          "collection": {
+            "label": "cards",
+            "name": "Cards"
+          },
+          "categories": "",
+          "tags": "",
+          "url": "/dont-get-tired",
+          "content": "You hear it all the time: “No time to relax.” “We’ll rest when we’re dead.”\n\nMeanwhile, there’s a sign at a cemetery: “Attention! Resting on cemetery grounds is strictly prohibited. Fine: 10,000 rubles.”\n\nBest reminder I know. Resting is for the living — later it’s against the rules.\n\nDon’t get tired. When you’re tired you want nothing, and you still have to keep going. Like surfing: you lose speed, lose the moment, and go under whatever you have to do. Instead of riding the wave, you drown in it.\n\nYou don’t work music, you play it. It’s not a race to the final note. Same with life: it’s not about reaching retirement faster.\n\nRest while you’re alive."
+        },
+        {
+          "id": "ru-dont-get-tired",
+          "title": "Уставать нельзя",
+          "collection": {
+            "label": "cards",
+            "name": "Cards"
+          },
+          "categories": "",
+          "tags": "",
+          "url": "/ru/dont-get-tired",
+          "content": "Постоянно слышишь вокруг: «Некогда расслабляться», «На том свете отдохнём».\n\nА на кладбище висит табличка: «Внимание! Отдых на территории кладбища строго запрещён. Штраф 10 000 руб.»\n\nЛучшее напоминание из всех, что я видел. Отдыхать можно живым — потом запрещено.\n\nУставать нельзя. Когда устаёшь, не хочется ничего, а приходится продолжать. Как на серфе: теряешь скорость, момент и уходишь под воду того, что приходится делать. Вместо того чтобы ехать на волне, тонешь в ней.\n\nМузыку не работают, а играют. Она не для того, чтобы быстрей добраться до последней ноты. Так и жизнь не для того, чтобы быстрей добраться до пенсии.\n\nОтдыхай при жизни."
         },
         {
           "id": "life-is-all-we-got",

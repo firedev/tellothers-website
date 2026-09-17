@@ -565,6 +565,18 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/dont-wait" />
   </url>
   <url>
+    <loc>https://tellothers.com/dont-get-tired</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/dont-get-tired" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/dont-get-tired" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/dont-get-tired" />
+  </url>
+  <url>
+    <loc>https://tellothers.com/ru/dont-get-tired</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/dont-get-tired" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/dont-get-tired" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/dont-get-tired" />
+  </url>
+  <url>
     <loc>https://tellothers.com/life-is-all-we-got</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/life-is-all-we-got" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/life-is-all-we-got" />
