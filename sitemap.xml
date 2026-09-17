@@ -73,16 +73,16 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/tell-others" />
   </url>
   <url>
-    <loc>https://tellothers.com/love-family</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/love-family" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/love-family" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/love-family" />
+    <loc>https://tellothers.com/couple</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/couple" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/couple" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/couple" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/love-family</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/love-family" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/love-family" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/love-family" />
+    <loc>https://tellothers.com/ru/couple</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/couple" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/couple" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/couple" />
   </url>
   <url>
     <loc>https://tellothers.com/speak-about-yourself</loc>
