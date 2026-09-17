@@ -157,30 +157,6 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/money-flow" />
   </url>
   <url>
-    <loc>https://tellothers.com/try-freediving</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/try-freediving" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/try-freediving" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/try-freediving" />
-  </url>
-  <url>
-    <loc>https://tellothers.com/ru/try-freediving</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/try-freediving" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/try-freediving" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/try-freediving" />
-  </url>
-  <url>
-    <loc>https://tellothers.com/supplements</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/supplements" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/supplements" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/supplements" />
-  </url>
-  <url>
-    <loc>https://tellothers.com/ru/supplements</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/supplements" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/supplements" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/supplements" />
-  </url>
-  <url>
     <loc>https://tellothers.com/surrender</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/surrender" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/surrender" />
@@ -265,18 +241,6 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/dont-believe-thoughts" />
   </url>
   <url>
-    <loc>https://tellothers.com/microdosing</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/microdosing" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/microdosing" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/microdosing" />
-  </url>
-  <url>
-    <loc>https://tellothers.com/ru/microdosing</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/microdosing" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/microdosing" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/microdosing" />
-  </url>
-  <url>
     <loc>https://tellothers.com/catch-the-autopilot</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/catch-the-autopilot" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/catch-the-autopilot" />
@@ -299,18 +263,6 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/brain-receiver" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/brain-receiver" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/brain-receiver" />
-  </url>
-  <url>
-    <loc>https://tellothers.com/learn-buddhism</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/learn-buddhism" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/learn-buddhism" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/learn-buddhism" />
-  </url>
-  <url>
-    <loc>https://tellothers.com/ru/learn-buddhism</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/learn-buddhism" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/learn-buddhism" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/learn-buddhism" />
   </url>
   <url>
     <loc>https://tellothers.com/question-reality</loc>
@@ -505,18 +457,6 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/everything-is-a-lesson" />
   </url>
   <url>
-    <loc>https://tellothers.com/english</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/english" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/english" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/english" />
-  </url>
-  <url>
-    <loc>https://tellothers.com/ru/english</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/english" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/english" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/english" />
-  </url>
-  <url>
     <loc>https://tellothers.com/mine-joy</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/mine-joy" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/mine-joy" />
@@ -635,6 +575,66 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/give-thanks" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/give-thanks" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/give-thanks" />
+  </url>
+  <url>
+    <loc>https://tellothers.com/english</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/english" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/english" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/english" />
+  </url>
+  <url>
+    <loc>https://tellothers.com/ru/english</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/english" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/english" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/english" />
+  </url>
+  <url>
+    <loc>https://tellothers.com/try-freediving</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/try-freediving" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/try-freediving" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/try-freediving" />
+  </url>
+  <url>
+    <loc>https://tellothers.com/ru/try-freediving</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/try-freediving" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/try-freediving" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/try-freediving" />
+  </url>
+  <url>
+    <loc>https://tellothers.com/learn-buddhism</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/learn-buddhism" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/learn-buddhism" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/learn-buddhism" />
+  </url>
+  <url>
+    <loc>https://tellothers.com/ru/learn-buddhism</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/learn-buddhism" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/learn-buddhism" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/learn-buddhism" />
+  </url>
+  <url>
+    <loc>https://tellothers.com/supplements</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/supplements" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/supplements" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/supplements" />
+  </url>
+  <url>
+    <loc>https://tellothers.com/ru/supplements</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/supplements" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/supplements" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/supplements" />
+  </url>
+  <url>
+    <loc>https://tellothers.com/microdosing</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/microdosing" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/microdosing" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/microdosing" />
+  </url>
+  <url>
+    <loc>https://tellothers.com/ru/microdosing</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/microdosing" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/microdosing" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/microdosing" />
   </url>
   <url>
     <loc>https://tellothers.com/read</loc>
