@@ -457,6 +457,18 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/everything-is-a-lesson" />
   </url>
   <url>
+    <loc>https://tellothers.com/mobility</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/mobility" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/mobility" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/mobility" />
+  </url>
+  <url>
+    <loc>https://tellothers.com/ru/mobility</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/mobility" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/mobility" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/mobility" />
+  </url>
+  <url>
     <loc>https://tellothers.com/mine-joy</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/mine-joy" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/mine-joy" />
