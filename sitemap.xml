@@ -457,16 +457,16 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/everything-is-a-lesson" />
   </url>
   <url>
-    <loc>https://tellothers.com/mobility</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/mobility" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/mobility" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/mobility" />
+    <loc>https://tellothers.com/freedom</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/freedom" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/freedom" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/freedom" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/mobility</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/mobility" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/mobility" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/mobility" />
+    <loc>https://tellothers.com/ru/freedom</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/freedom" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/freedom" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/freedom" />
   </url>
   <url>
     <loc>https://tellothers.com/mine-joy</loc>
