@@ -97,6 +97,18 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/speak-about-yourself" />
   </url>
   <url>
+    <loc>https://tellothers.com/find-your-people</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/find-your-people" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/find-your-people" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/find-your-people" />
+  </url>
+  <url>
+    <loc>https://tellothers.com/ru/find-your-people</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/find-your-people" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/find-your-people" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/find-your-people" />
+  </url>
+  <url>
     <loc>https://tellothers.com/no-slavery</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/no-slavery" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/no-slavery" />
