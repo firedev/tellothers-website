@@ -181,18 +181,6 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/surrender" />
   </url>
   <url>
-    <loc>https://tellothers.com/dont-drink</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/dont-drink" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/dont-drink" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/dont-drink" />
-  </url>
-  <url>
-    <loc>https://tellothers.com/ru/dont-drink</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/dont-drink" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/dont-drink" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/dont-drink" />
-  </url>
-  <url>
     <loc>https://tellothers.com/all-for-the-brain</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/all-for-the-brain" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/all-for-the-brain" />
@@ -659,6 +647,18 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/biohacking" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/biohacking" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/biohacking" />
+  </url>
+  <url>
+    <loc>https://tellothers.com/dont-drink</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/dont-drink" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/dont-drink" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/dont-drink" />
+  </url>
+  <url>
+    <loc>https://tellothers.com/ru/dont-drink</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/dont-drink" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/dont-drink" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/dont-drink" />
   </url>
   <url>
     <loc>https://tellothers.com/microdosing</loc>

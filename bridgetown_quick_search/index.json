@@ -312,30 +312,6 @@
           "content": "Когда ты пытаешься продавить глубину силой воли, напряжением — ты тратишь кислород и всплываешь раньше. А когда отпускаешь, расслабляешься, сдаёшься глубине — она тебя принимает.\n\nНастоящая сила не в контроле, а в сдаче.\n\nЯ пробился сквозь слой страха, окружавший меня: будь что будет — и не сопротивляюсь воде, не сопротивляюсь ничему. Всё сошлось в этот момент: 41,5 метра я сделал запросто. Сигналов паники нет — я просто лечу вниз.\n\nПаника приходит — не борись с ней. Дай ей пройти. И она проходит. А ты остаёшься в покое.\n\nЭмоции — как волны. Они хотят пройти через тебя. Мы сами делаем из них тюрьму, когда цепляемся или убегаем."
         },
         {
-          "id": "dont-drink",
-          "title": "Don't drink",
-          "collection": {
-            "label": "cards",
-            "name": "Cards"
-          },
-          "categories": "",
-          "tags": "",
-          "url": "/dont-drink",
-          "content": "Alcohol is the only drug where people think you’re sick if you DON’T take it.\n\nSay “I don’t drink” and the interrogation starts. Why? What happened? Not even on holidays? As if sobriety is a diagnosis. As if refusing the poison needs explaining, and accepting it doesn’t.\n\nNo alcohol, no smoking. Psychedelics — yes.\n\nKindness is like not drinking — you start seeing the unkindness at once."
-        },
-        {
-          "id": "ru-dont-drink",
-          "title": "Не пей",
-          "collection": {
-            "label": "cards",
-            "name": "Cards"
-          },
-          "categories": "",
-          "tags": "",
-          "url": "/ru/dont-drink",
-          "content": "Алкоголь — единственный наркотик, по поводу которого тебя считают больным, если ты его НЕ употребляешь.\n\nГоворишь «не пью» — и начинается допрос. Почему? Что случилось? А на праздники тоже? Как будто трезвость — диагноз. Как будто отказ от яда требует объяснений, а согласие — нет.\n\nНе пью, не курю. Психоделики — да.\n\nДоброта как не пить алкоголь — сразу заметна недобрость."
-        },
-        {
           "id": "all-for-the-brain",
           "title": "All for the brain",
           "collection": {
@@ -1270,6 +1246,30 @@
           "tags": "",
           "url": "/ru/biohacking",
           "content": "Тело — приёмник. Расстроенный приёмник ловит шум, и ты думаешь что мир такой. Подстрой получше — поймаешь сигнал почище.\n\nМагний. Базовое. Я долго мучился судорогами, пока не понял что просто не хватает. Не магнезия — магний. С солью.\n\nL-теанин. Спокойствие без сонливости. С кофе хорошо — снимает дёрганность.\n\n5-HTP. Топливо для жизни. Пью 5-HTP для серотонина, оптимистичный взгляд на жизнь помогает поддерживать. Дни бодрее и веселее, ночью лучше спишь.\n\nНоопепт. Ноотропик короткого действия, не влияет на сон. Прочищает экран. Всё лучше видится. Прям высвобождает что-то лишнее в мозгу, и остаётся поглощение материала.\n\nМикродозинг. Верх стека. Ощущение что я всё могу и всё получится. И получается. В дни микродозинга прям летает всё — быстро, чётко и понятно. Чувствуешь что живёшь.\n\nЦель — постоянно хорошее настроение и лёгкость на подъём.\n\nТонкая настройка."
+        },
+        {
+          "id": "dont-drink",
+          "title": "Don't drink",
+          "collection": {
+            "label": "cards",
+            "name": "Cards"
+          },
+          "categories": "",
+          "tags": "",
+          "url": "/dont-drink",
+          "content": "Alcohol is the only drug where people think you’re sick if you DON’T take it.\n\nSay “I don’t drink” and the interrogation starts. Why? What happened? Not even on holidays? As if sobriety is a diagnosis. As if refusing the poison needs explaining, and accepting it doesn’t.\n\nNo alcohol, no smoking. Psychedelics — yes.\n\nKindness is like not drinking — you start seeing the unkindness at once."
+        },
+        {
+          "id": "ru-dont-drink",
+          "title": "Не пей",
+          "collection": {
+            "label": "cards",
+            "name": "Cards"
+          },
+          "categories": "",
+          "tags": "",
+          "url": "/ru/dont-drink",
+          "content": "Алкоголь — единственный наркотик, по поводу которого тебя считают больным, если ты его НЕ употребляешь.\n\nГоворишь «не пью» — и начинается допрос. Почему? Что случилось? А на праздники тоже? Как будто трезвость — диагноз. Как будто отказ от яда требует объяснений, а согласие — нет.\n\nНе пью, не курю. Психоделики — да.\n\nДоброта как не пить алкоголь — сразу заметна недобрость."
         },
         {
           "id": "microdosing",
