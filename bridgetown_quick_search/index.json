@@ -288,6 +288,30 @@
           "content": "Говорят: денежный поток. Что за поток такой?\n\nПредставь реку. Течение идёт тебе навстречу, это время. По нему плывут деньги, которые к тебе придут: зарплата в конце месяца, возвращённый долг, платёж от клиента. Каждая сумма — льдина. Одну уже видно, другая ещё за поворотом.\n\nИ на каждой написана цена. Не бойся её заплатить. Чистым не приходит ничего.\n\nНа счету лежит то, что доплыло сегодня. В потоке идёт всё остальное.\n\nРасширяй русло. Запускай больше льдин, которые принесут следующие.\n\n\n  Keep your sh*t in order the money won’t stop, pretty soon you will be on top\n\n  – Cypress Hill"
         },
         {
+          "id": "show-up",
+          "title": "Show up",
+          "collection": {
+            "label": "cards",
+            "name": "Cards"
+          },
+          "categories": "",
+          "tags": "",
+          "url": "/show-up",
+          "content": "“If it is important, do it every day. If it’s not important, don’t do it at all.”\n\nTo do everything at once, you have to be lousy at everything. To be great, you have to focus on very few things — most of us can barely handle more than one.\n\n“Make yourself a slave to good habits.”\n\nShow up. Don’t be late. And never let go."
+        },
+        {
+          "id": "ru-show-up",
+          "title": "Приходи",
+          "collection": {
+            "label": "cards",
+            "name": "Cards"
+          },
+          "categories": "",
+          "tags": "",
+          "url": "/ru/show-up",
+          "content": "«Если это важно — делай каждый день. Если не важно — не делай вообще».\n\nЧтобы делать всё сразу, придётся делать всё кое-как. Чтобы стать великим, надо сосредоточиться на очень немногом — большинство из нас едва тянет что-то одно.\n\n«Стань рабом хороших привычек».\n\nПриходи. Не опаздывай. И не разжимай хватку."
+        },
+        {
           "id": "surrender",
           "title": "Surrender to the depth",
           "collection": {
@@ -1305,7 +1329,7 @@
           "categories": "",
           "tags": "",
           "url": "/read",
-          "content": "You haven&#8217;t found out the best part yet.\n\nThe world is endless and vast, and around every corner there&#8217;s a new one.\n\nGet used to reading. Then anything you need, you can simply read.\n\nSwitch your mode of consumption to the one that makes you better."
+          "content": "You haven’t found out the best part yet.\n\nThe world is endless and vast, and around every corner there’s a new one.\n\nGet used to reading. Then anything you need, you can simply read.\n\nSwitch your mode of consumption to the one that makes you better.\n\n\n  I never stopped reading. I never stopped listening. I never stopped learning.\n\n  — Dan John, Never Let Go"
         },
         {
           "id": "ru-read",
@@ -1317,7 +1341,7 @@
           "categories": "",
           "tags": "",
           "url": "/ru/read",
-          "content": "Ты ещё не узнал самое интересное.\n\nМир бесконечен и необъятен, за каждым поворотом новый.\n\nПривыкни читать. И всё, что тебе понадобится, ты сможешь просто прочесть.\n\nПереключи режим потребления на тот, который делает тебя лучше."
+          "content": "Ты ещё не узнал самое интересное.\n\nМир бесконечен и необъятен, за каждым поворотом новый.\n\nПривыкни читать. И всё, что тебе понадобится, ты сможешь просто прочесть.\n\nПереключи режим потребления на тот, который делает тебя лучше.\n\n\n  Я никогда не переставал читать. Никогда не переставал слушать. Никогда не переставал учиться.\n\n  — Дэн Джон"
         },
         {
           "id": "why-buddhism-is-true",

@@ -169,6 +169,18 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/money-flow" />
   </url>
   <url>
+    <loc>https://tellothers.com/show-up</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/show-up" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/show-up" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/show-up" />
+  </url>
+  <url>
+    <loc>https://tellothers.com/ru/show-up</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/show-up" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/show-up" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/show-up" />
+  </url>
+  <url>
     <loc>https://tellothers.com/surrender</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/surrender" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/surrender" />
