@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="ru"><head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Посмотрим</title>
+<script>
+(function () {
+  var urls = ["/ru/be-kind","/ru/other-people","/ru/never-dive-alone","/ru/tell-others","/ru/couple","/ru/speak-about-yourself","/ru/find-your-people","/ru/no-slavery","/ru/opt-out","/ru/no-offense","/ru/compound","/ru/money-flow","/ru/show-up","/ru/surrender","/ru/all-for-the-brain","/ru/body-friend","/ru/skip-breakfast","/ru/dont-believe-thoughts","/ru/catch-the-autopilot","/ru/brain-receiver","/ru/question-reality","/ru/grow-inward","/ru/spacesuit","/ru/inner-parasite","/ru/see-wider","/ru/drop-suffering","/ru/my-world","/ru/through-not-around","/ru/write","/ru/talk-yourself-out","/ru/life-shelves","/ru/locate-control-inside","/ru/stop-doubting","/ru/level-up","/ru/do-not-lie","/ru/everything-is-a-lesson","/ru/freedom","/ru/mine-joy","/ru/boredom-is-joy","/ru/the-day-only-gets-better","/ru/do-what-you-like","/ru/love-life","/ru/true-desires","/ru/best-world","/ru/dont-wait","/ru/dont-get-tired","/ru/life-is-all-we-got","/ru/give-thanks","/ru/english","/ru/sit-still","/ru/try-freediving","/ru/learn-buddhism","/ru/biohacking","/ru/dont-drink","/ru/microdosing","/ru/read","/ru/why-buddhism-is-true","/ru/how-i-found-freedom","/ru/12-rules-for-life","/ru/the-hermit-and-six-toes","/ru/lying","/ru/truth","/ru/free-will","/ru/karma","/ru/krishna","/ru/ganesha","/ru/shiva","/ru/suffering","/ru/dharma","/ru/samsara","/ru/nirvana","/ru/maya","/ru/advaita","/ru/samadhi","/ru/vipassana","/ru/metta","/ru/atman","/ru/brahman","/ru/anatta","/ru/anicca","/ru/shunyata","/ru/satori","/ru/jhanas","/ru/turiya"];
+  var home = "/ru/";
+  if (!urls.length) { location.replace(home); return; }
+  var path = "";
+  try { path = new URL(document.referrer).pathname.replace(/\.html$/, "").replace(/\/$/, ""); } catch (e) {}
+  var pool = urls.filter(function (u) { return u.replace(/\/$/, "") !== path; });
+  if (!pool.length) pool = urls;
+  location.replace(pool[Math.floor(Math.random() * pool.length)]);
+})();
+</script>
+</head>
+<body><a href="/ru/be-kind">/ru/be-kind</a></body></html>

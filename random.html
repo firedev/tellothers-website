@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Let's see</title>
+<script>
+(function () {
+  var urls = ["/be-kind","/other-people","/never-dive-alone","/tell-others","/couple","/speak-about-yourself","/find-your-people","/no-slavery","/opt-out","/no-offense","/compound","/money-flow","/show-up","/surrender","/all-for-the-brain","/body-friend","/skip-breakfast","/dont-believe-thoughts","/catch-the-autopilot","/brain-receiver","/question-reality","/grow-inward","/spacesuit","/inner-parasite","/see-wider","/drop-suffering","/my-world","/through-not-around","/write","/talk-yourself-out","/life-shelves","/locate-control-inside","/stop-doubting","/level-up","/do-not-lie","/everything-is-a-lesson","/freedom","/mine-joy","/boredom-is-joy","/the-day-only-gets-better","/do-what-you-like","/love-life","/true-desires","/best-world","/dont-wait","/dont-get-tired","/life-is-all-we-got","/give-thanks","/english","/sit-still","/try-freediving","/learn-buddhism","/biohacking","/dont-drink","/microdosing","/read","/why-buddhism-is-true","/how-i-found-freedom","/12-rules-for-life","/the-hermit-and-six-toes","/lying","/truth","/free-will","/karma","/krishna","/ganesha","/shiva","/suffering","/dharma","/samsara","/nirvana","/maya","/advaita","/samadhi","/vipassana","/metta","/atman","/brahman","/anatta","/anicca","/shunyata","/satori","/jhanas","/turiya"];
+  var home = "/";
+  if (!urls.length) { location.replace(home); return; }
+  var path = "";
+  try { path = new URL(document.referrer).pathname.replace(/\.html$/, "").replace(/\/$/, ""); } catch (e) {}
+  var pool = urls.filter(function (u) { return u.replace(/\/$/, "") !== path; });
+  if (!pool.length) pool = urls;
+  location.replace(pool[Math.floor(Math.random() * pool.length)]);
+})();
+</script>
+</head>
+<body><a href="/be-kind">/be-kind</a></body></html>
