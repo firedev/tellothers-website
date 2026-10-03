@@ -589,16 +589,16 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/life-is-all-we-got" />
   </url>
   <url>
-    <loc>https://tellothers.com/give-thanks</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/give-thanks" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/give-thanks" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/give-thanks" />
+    <loc>https://tellothers.com/be-grateful</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/be-grateful" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/be-grateful" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/be-grateful" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/give-thanks</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/give-thanks" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/give-thanks" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/give-thanks" />
+    <loc>https://tellothers.com/ru/be-grateful</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/be-grateful" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/be-grateful" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/be-grateful" />
   </url>
   <url>
     <loc>https://tellothers.com/english</loc>

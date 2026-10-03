@@ -249,7 +249,7 @@
           "categories": "",
           "tags": "",
           "url": "/compound",
-          "content": "0.1% a day doesn’t sound like much. Annualized, it’s huge.\n\nWhen it’s about as bad as it gets — just make a little progress every day.\n\nDon’t look back at where you were. Just the next step, then the next.\n\nI go to the gym in the mornings now, no records. The only metric is being there every day.\n\nThe first weeks show nothing. Around day 90 you see it: used to be here, now up there.\n\nThat’s how my instructor course went: “I just pass something every day. Today — rescues, of myself and others.”\n\n“You start, you continue — and soon your results are better than most. Because most never start. Or start and quit right away.” — Nikita Kolmogorov"
+          "content": "0.1% a day doesn’t sound like much. Annualized, it’s huge.\n\nWhen it’s about as bad as it gets — just make a little progress every day.\n\nDon’t look back at where you were. Just the next step, then the next.\n\nI go to the gym in the mornings now, no records. The only metric is being there every day.\n\nThe first weeks show nothing. Around day 90 you see it: used to be here, now up there.\n\nThat’s how my instructor course went — I just pass something every time.\n\nYou start, you continue — and soon your results are better than most. Because most never start. Or start and quit right away."
         },
         {
           "id": "ru-compound",
@@ -261,7 +261,7 @@
           "categories": "",
           "tags": "",
           "url": "/ru/compound",
-          "content": "0,1% в день звучит как ничего. В годовом исчислении это огромно.\n\nКогда хуже уже почти некуда — просто делай маленький прогресс каждый день.\n\nНе оглядывайся на то, где ты был. Просто следующий шаг, потом следующий.\n\nЯ в зал теперь просто хожу по утрам без рекордов. Метрика — просто быть там каждый день.\n\nПервые недели не видно ничего. День на девяностый видишь: был здесь, теперь вон там.\n\nНа инструкторском у меня так и было: «Просто каждый день что-то сдаю. Сегодня — спасения, себя и других».\n\n«Вы начинаете, продолжаете — и вскоре ваши результаты лучше, чем у большинства. Потому что большинство даже не начинает. Или начинает и сразу бросает.» — Никита Колмогоров"
+          "content": "0,1% в день звучит как ничего. В годовом исчислении это огромно.\n\nКогда хуже уже почти некуда — просто делай маленький прогресс каждый день.\n\nНе оглядывайся на то, где ты был. Просто следующий шаг, потом следующий.\n\nЯ в зал теперь просто хожу по утрам без рекордов. Метрика — просто быть там каждый день.\n\nПервые недели не видно ничего. День на девяностый видишь: был здесь, теперь вон там.\n\nНа инструкторском у меня так и было — просто каждый раз что-то сдаю.\n\nВы начинаете, продолжаете — и вскоре ваши результаты лучше, чем у большинства. Потому что большинство даже не начинает. Или начинает и сразу бросает."
         },
         {
           "id": "money-flow",
@@ -1128,19 +1128,19 @@
           "content": "Жизнь тяжела? По сравнению с чем? Это всё, что у нас есть.\n\nЯ давно понял, что самая расплохая жизнь лучше никакой. И вопрос закрылся навсегда.\n\nВ жизни выиграть нельзя, точка. Не будет победы, у кого больше денег в финале. Выигрываешь каждый момент.\n\nМы все умрём, и не так много каждому дано. Так что, пока мы тут, надо хорошо провести время.\n\nВторая жизнь начинается, когда понимаешь, что она одна. А потом понимаешь, что она одна на всех.\n\nНа Земле больше делать нечего. Жить и помогать жить другим."
         },
         {
-          "id": "give-thanks",
-          "title": "Give thanks",
+          "id": "be-grateful",
+          "title": "Be grateful",
           "collection": {
             "label": "cards",
             "name": "Cards"
           },
           "categories": "",
           "tags": "",
-          "url": "/give-thanks",
-          "content": "Thank life — and it thanks you back. Simple. Always has been.\n\nAfter a week of gratitude, a strong rise started inside me.\n\nLately, when the moment allows, I try to say “thank you” instead of “sorry”.\n\nThe good is what’s real: joy, love, gratitude. That’s how you know what to do. That’s you. The rest you can ignore.\n\nThe Titanic sails itself — you only steer with attention. The wheel is the feeling of gratitude and joy. Find something to thank in what’s happening. The universe takes care of the rest.\n\nLong ago I learned to expect nothing and keep my heart open, ready to take whatever may come.\n\nNotice the good — and there will be more of it. It pairs with metta: there you wish the good, here you find it.\n\nGive thanks. It’s the antidote to everything."
+          "url": "/be-grateful",
+          "content": "Thank life — and it thanks you back. Simple. Always has been.\n\nAfter a week of gratitude, a strong rise started inside me.\n\nThe good is what’s real: joy, love, gratitude. That’s how you know what to do. That’s you. The rest you can ignore.\n\nThe Titanic sails itself — you only steer with attention. The wheel is the feeling of gratitude and joy. Find something to thank in what’s happening. The universe takes care of the rest.\n\nLong ago I learned to expect nothing and keep my heart open, ready to take whatever may come.\n\nNotice the good — and there will be more of it. It pairs with metta: there you wish the good, here you find it.\n\nGive thanks. It’s the antidote to everything."
         },
         {
-          "id": "ru-give-thanks",
+          "id": "ru-be-grateful",
           "title": "Благодари",
           "collection": {
             "label": "cards",
@@ -1148,8 +1148,8 @@
           },
           "categories": "",
           "tags": "",
-          "url": "/ru/give-thanks",
-          "content": "Благодарите жизнь — и она отблагодарит вас. Всё просто. И всегда было.\n\nПосле недели благодарности у меня начался сильный подъём внутри.\n\nЯ последнее время стараюсь вместо «извини» говорить «спасибо тебе», если ситуация располагает.\n\nХорошее реально: радость, любовь, благодарность. Так и узнаёшь, что делать. Это ты. Остальное можно игнорировать.\n\nТитаник плывёт сам — подруливать можно только вниманием. Руль — ощущение благодарности и чувство радости. Находи в происходящем благодарность. Вселенная позаботится.\n\nЯ давно научился ничего не ожидать и держать сердце открытым, готовым принять всё, что может прийти.\n\nЗамечай хорошее — и хорошего будет больше. Работает в паре с меттой: там желаешь добра, здесь его находишь.\n\nБлагодари — это противоядие от всего."
+          "url": "/ru/be-grateful",
+          "content": "Благодарите жизнь — и она отблагодарит вас. Всё просто. И всегда было.\n\nПосле недели благодарности у меня начался сильный подъём внутри.\n\nХорошее реально: радость, любовь, благодарность. Так и узнаёшь, что делать. Это ты. Остальное можно игнорировать.\n\nТитаник плывёт сам — подруливать можно только вниманием. Руль — ощущение благодарности и чувство радости. Находи в происходящем благодарность. Вселенная позаботится.\n\nЯ давно научился ничего не ожидать и держать сердце открытым, готовым принять всё, что может прийти.\n\nЗамечай хорошее — и хорошего будет больше. Работает в паре с меттой: там желаешь добра, здесь его находишь.\n\nБлагодари — это противоядие от всего."
         },
         {
           "id": "english",
