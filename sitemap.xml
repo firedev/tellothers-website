@@ -781,6 +781,78 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/free-will" />
   </url>
   <url>
+    <loc>https://tellothers.com/watch</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/watch" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/watch" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/watch" />
+  </url>
+  <url>
+    <loc>https://tellothers.com/ru/watch</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/watch" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/watch" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/watch" />
+  </url>
+  <url>
+    <loc>https://tellothers.com/arrival</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/arrival" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/arrival" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/arrival" />
+  </url>
+  <url>
+    <loc>https://tellothers.com/ru/arrival</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/arrival" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/arrival" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/arrival" />
+  </url>
+  <url>
+    <loc>https://tellothers.com/click</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/click" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/click" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/click" />
+  </url>
+  <url>
+    <loc>https://tellothers.com/ru/click</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/click" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/click" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/click" />
+  </url>
+  <url>
+    <loc>https://tellothers.com/the-matrix</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/the-matrix" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/the-matrix" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/the-matrix" />
+  </url>
+  <url>
+    <loc>https://tellothers.com/ru/the-matrix</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/the-matrix" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/the-matrix" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/the-matrix" />
+  </url>
+  <url>
+    <loc>https://tellothers.com/the-life-of-chuck</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/the-life-of-chuck" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/the-life-of-chuck" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/the-life-of-chuck" />
+  </url>
+  <url>
+    <loc>https://tellothers.com/ru/the-life-of-chuck</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/the-life-of-chuck" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/the-life-of-chuck" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/the-life-of-chuck" />
+  </url>
+  <url>
+    <loc>https://tellothers.com/generation-p</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/generation-p" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/generation-p" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/generation-p" />
+  </url>
+  <url>
+    <loc>https://tellothers.com/ru/generation-p</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/generation-p" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/generation-p" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/generation-p" />
+  </url>
+  <url>
     <loc>https://tellothers.com/karma</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/karma" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/karma" />
