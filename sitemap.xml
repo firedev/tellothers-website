@@ -109,6 +109,18 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/find-your-people" />
   </url>
   <url>
+    <loc>https://tellothers.com/everyone-is-asleep</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/everyone-is-asleep" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/everyone-is-asleep" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/everyone-is-asleep" />
+  </url>
+  <url>
+    <loc>https://tellothers.com/ru/everyone-is-asleep</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/everyone-is-asleep" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/everyone-is-asleep" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/everyone-is-asleep" />
+  </url>
+  <url>
     <loc>https://tellothers.com/no-slavery</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/no-slavery" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/no-slavery" />
