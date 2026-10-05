@@ -853,6 +853,18 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/generation-p" />
   </url>
   <url>
+    <loc>https://tellothers.com/soul</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/soul" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/soul" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/soul" />
+  </url>
+  <url>
+    <loc>https://tellothers.com/ru/soul</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/soul" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/soul" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/soul" />
+  </url>
+  <url>
     <loc>https://tellothers.com/karma</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/karma" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/karma" />
