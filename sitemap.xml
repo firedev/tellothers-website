@@ -301,6 +301,18 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/question-reality" />
   </url>
   <url>
+    <loc>https://tellothers.com/no-actually</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/no-actually" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/no-actually" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/no-actually" />
+  </url>
+  <url>
+    <loc>https://tellothers.com/ru/no-actually</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/no-actually" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/no-actually" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/no-actually" />
+  </url>
+  <url>
     <loc>https://tellothers.com/grow-inward</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/grow-inward" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/grow-inward" />
