@@ -301,16 +301,16 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/question-reality" />
   </url>
   <url>
-    <loc>https://tellothers.com/no-actually</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/no-actually" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/no-actually" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/no-actually" />
+    <loc>https://tellothers.com/for-real</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/for-real" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/for-real" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/for-real" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/no-actually</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/no-actually" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/no-actually" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/no-actually" />
+    <loc>https://tellothers.com/ru/for-real</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/for-real" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/for-real" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/for-real" />
   </url>
   <url>
     <loc>https://tellothers.com/grow-inward</loc>
