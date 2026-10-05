@@ -85,6 +85,18 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/couple" />
   </url>
   <url>
+    <loc>https://tellothers.com/children</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/children" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/children" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/children" />
+  </url>
+  <url>
+    <loc>https://tellothers.com/ru/children</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/children" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/children" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/children" />
+  </url>
+  <url>
     <loc>https://tellothers.com/speak-about-yourself</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/speak-about-yourself" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/speak-about-yourself" />

@@ -120,6 +120,30 @@
           "content": "Человек становится цельным в паре. Пара — это не просто двое, а когда между вами нет пустоты.\n\nВсегда садитесь за стол так, чтобы видеть друг друга. Лицо напротив улыбается? Это главный индикатор в жизни.\n\nА для этого между вами не должно оставаться ничего недосказанного. Всё, что накопилось — высказать. Не «потом», не «и так понятно», не носить с собой.\n\nСказать тому, кому надо: люблю, спасибо, ты для меня вот это.\n\nНе надо жить и копить конфликты. Пошёл странный текст в разговоре? Это сигнал. Проговаривай всё до конца.\n\nВысказанное освобождает место. И пустота заполняется любовью."
         },
         {
+          "id": "children",
+          "title": "Children",
+          "collection": {
+            "label": "cards",
+            "name": "Cards"
+          },
+          "categories": "",
+          "tags": "",
+          "url": "/children",
+          "content": "Kids are little versions of us. I never punish them or tell them off.\n\nBring them into your life. Show them how it works, teach them to live, and spare them the lectures.\n\nLive so they want to copy you. Take them along, and they&#8217;ll catch up.\n\nDo what you want. Choose what to want. Teach them to choose.\n\nRelax. You and your kids will be fine."
+        },
+        {
+          "id": "ru-children",
+          "title": "Дети",
+          "collection": {
+            "label": "cards",
+            "name": "Cards"
+          },
+          "categories": "",
+          "tags": "",
+          "url": "/ru/children",
+          "content": "Дети — это маленькие мы. Я никогда их не наказываю и не ругаю.\n\nИх надо приглашать в жизнь, показывать жизнь, учить жизни, а не долбать воспитанием.\n\nЖиви так, чтобы за тобой хотелось повторять. Бери их с собой — и они подтянутся.\n\nДелай что хочешь. Выбери, чего хотеть. Научи их выбирать.\n\nРасслабься. У тебя и детей всё будет хорошо."
+        },
+        {
           "id": "speak-about-yourself",
           "title": "Speak about yourself",
           "collection": {
