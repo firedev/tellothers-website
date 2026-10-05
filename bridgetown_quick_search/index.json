@@ -576,6 +576,30 @@
           "content": "Почему в буддизме не во что верить? Всё кажется.\n\nНеважно, как там на самом деле. Любую ситуацию можно повернуть как угодно. Просто считай, что источник бесконечен.\n\nНа самом деле всё хорошо, и всё урок. Хотя никакого этого самого дела и нет."
         },
         {
+          "id": "watch-your-mouth",
+          "title": "Watch your mouth",
+          "collection": {
+            "label": "cards",
+            "name": "Cards"
+          },
+          "categories": "",
+          "tags": "",
+          "url": "/watch-your-mouth",
+          "content": "Words are real. Even though nothing is.\n\nLanguage is full of words for things that don’t exist. Those things show up only because there’s a word for them.\n\nSay “problem” and you’ve programmed yourself for one in advance. Problems don’t exist. There are tasks that need solving. Or just a fact of life.\n\nWatch your mouth. Not the talk that goes out — the talk that goes in. Little by little, life starts to straighten out."
+        },
+        {
+          "id": "ru-watch-your-mouth",
+          "title": "Фильтруй базар",
+          "collection": {
+            "label": "cards",
+            "name": "Cards"
+          },
+          "categories": "",
+          "tags": "",
+          "url": "/ru/watch-your-mouth",
+          "content": "Слова реальны. Хотя ничего не реально.\n\nВ языке полно слов, которые обозначают несуществующие вещи. Эти вещи возникают только потому, что для них есть слово.\n\nГоворишь «проблема» — и заранее программируешь себя на неё. Проблем не существует. Есть задачи, которые требуют решения. Или просто факт жизни.\n\nФильтруй базар. Не тот, что произносишь наружу, а тот, что идёт внутрь. И потихоньку жизнь начнёт выравниваться."
+        },
+        {
           "id": "grow-inward",
           "title": "Grow inward",
           "collection": {
@@ -1305,7 +1329,7 @@
           "categories": "",
           "tags": "",
           "url": "/try-freediving",
-          "content": "It turned out not to be swimming, but training the ability to stay calm. Couldn’t relax — didn’t dive. Meditate or surface.\n\nMy don’t-give-a-damn level is 12 meters.\n\nFreediving is letting go. Not pushing through. You can’t dive angry or upset — you instantly run out of breath. Every dive should be light and pleasant. Like everything in life.\n\nThe instructor manual says: tell students what to do, not what not to do. Only what is there.\n\nThe depth washes everything unnecessary out of you. After that you can choose what to let back into your life.\n\nWhen something weird comes up, you just relax the mind and fall through it. It disappears. You can think without reading thoughts and picturing images. Think without words. Before words.\n\nWhen you dive, you leave the character on the surface and descend from his world into yourself. You switch off the prompter of the mind. It’s samadhi.\n\nBecome a freediver. It’s a gym for the spirit.\n\nFree as in freedom.\n\nThe best dive is when you don’t think at all."
+          "content": "It turned out not to be swimming, but training the ability to stay calm. Couldn’t relax — didn’t dive. Meditate or surface.\n\nMy don’t-give-a-damn level is 12 meters.\n\nFreediving is letting go. Not pushing through. You can’t dive angry or upset — you instantly run out of breath. Every dive should be light and pleasant. Like everything in life.\n\nThe instructor manual says: tell students what to do, not what not to do. Only what is there.\n\nWhat I teach isn’t freediving — it’s calm and composure. Control. And control is letting go of control.\n\nThe depth washes everything unnecessary out of you. After that you can choose what to let back into your life.\n\nWhen something weird comes up, you just relax the mind and fall through it. It disappears. You can think without reading thoughts and picturing images. Think without words. Before words.\n\nWhen you dive, you leave the character on the surface and descend from his world into yourself. You switch off the prompter of the mind. It’s samadhi.\n\nBecome a freediver. It’s a gym for the spirit.\n\nFree as in freedom.\n\nThe best dive is when you don’t think at all."
         },
         {
           "id": "ru-try-freediving",
@@ -1317,7 +1341,7 @@
           "categories": "",
           "tags": "",
           "url": "/ru/try-freediving",
-          "content": "Это оказалось не плавание, а тренировка способности сохранять спокойствие. Не смог расслабиться — не нырнул. Медитируй или всплывай.\n\nМой уровень пофигизма — 12 метров.\n\nФридайвинг — это отпускание. Не преодоление. Нельзя нырять злым, обиженным. Сразу начнёт не хватать дыхания. Все погружения должны быть лёгкими и приятными. Как и всё в жизни.\n\nИнструкторский мануал гласит: говори студентам, что делать, а не чего не делать. Только то, что есть.\n\nГлубина вымывает из тебя всё ненужное. И после этого ты можешь выбирать, что впустить обратно в свою жизнь.\n\nКогда кажется какая-то дичь, просто расслабляешь ум и проваливаешься сквозь неё. Она исчезает. Можно думать не только зачитывая мысли и представляя картинки. Думать без слов, до слов.\n\nНыряя, ты оставляешь персонажа на поверхности и погружаешься из его мира в самого себя. Отключаешься от суфлёра ума. Это самадхи.\n\nСтановитесь фридайверами. Это спортзал для духа.\n\nFree as in freedom.\n\nЛучший дайв — когда не думаешь вообще."
+          "content": "Это оказалось не плавание, а тренировка способности сохранять спокойствие. Не смог расслабиться — не нырнул. Медитируй или всплывай.\n\nМой уровень пофигизма — 12 метров.\n\nФридайвинг — это отпускание. Не преодоление. Нельзя нырять злым, обиженным. Сразу начнёт не хватать дыхания. Все погружения должны быть лёгкими и приятными. Как и всё в жизни.\n\nИнструкторский мануал гласит: говори студентам, что делать, а не чего не делать. Только то, что есть.\n\nЯ учу не фридайвингу, а спокойствию и невозмутимости. Контролю. А контроль в том, чтобы отпустить контроль.\n\nГлубина вымывает из тебя всё ненужное. И после этого ты можешь выбирать, что впустить обратно в свою жизнь.\n\nКогда кажется какая-то дичь, просто расслабляешь ум и проваливаешься сквозь неё. Она исчезает. Можно думать не только зачитывая мысли и представляя картинки. Думать без слов, до слов.\n\nНыряя, ты оставляешь персонажа на поверхности и погружаешься из его мира в самого себя. Отключаешься от суфлёра ума. Это самадхи.\n\nСтановитесь фридайверами. Это спортзал для духа.\n\nFree as in freedom.\n\nЛучший дайв — когда не думаешь вообще."
         },
         {
           "id": "learn-buddhism",

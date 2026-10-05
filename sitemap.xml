@@ -313,6 +313,18 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/for-real" />
   </url>
   <url>
+    <loc>https://tellothers.com/watch-your-mouth</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/watch-your-mouth" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/watch-your-mouth" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/watch-your-mouth" />
+  </url>
+  <url>
+    <loc>https://tellothers.com/ru/watch-your-mouth</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/watch-your-mouth" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/watch-your-mouth" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/watch-your-mouth" />
+  </url>
+  <url>
     <loc>https://tellothers.com/grow-inward</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/grow-inward" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/grow-inward" />
