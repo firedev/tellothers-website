@@ -349,16 +349,16 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/spacesuit" />
   </url>
   <url>
-    <loc>https://tellothers.com/inner-parasite</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/inner-parasite" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/inner-parasite" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/inner-parasite" />
+    <loc>https://tellothers.com/parasite</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/parasite" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/parasite" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/parasite" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/inner-parasite</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/inner-parasite" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/inner-parasite" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/inner-parasite" />
+    <loc>https://tellothers.com/ru/parasite</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/parasite" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/parasite" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/parasite" />
   </url>
   <url>
     <loc>https://tellothers.com/see-wider</loc>
