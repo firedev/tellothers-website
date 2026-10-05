@@ -153,7 +153,7 @@
           "categories": "",
           "tags": "",
           "url": "/speak-about-yourself",
-          "content": "We’re adults. We don’t talk about problems — we just go silent for three days and then reply with a “:)”.\n\nA real conversation starts when you start talking about yourself. Everything else is topics: news, other people’s business, excuses, taking apart someone’s defenses.\n\nTalking, you find out what’s going on with you.\n\nAn open person has done the most inner work. It may have taken them years to open up: one of the strongest fears is the fear of rejection.\n\nWhen I talk with a friend and it gets heavy, the only thing that helps is talking about myself.\n\nSpeak about yourself. The ones you can do this with are your people."
+          "content": "We’re adults. We don’t talk about problems — we just go silent for three days and then reply with a “:)”.\n\nA real conversation starts when you start talking about yourself. Everything else is topics: news, other people’s business, excuses, taking apart someone’s defenses.\n\nTalking, you find out what’s going on with you.\n\nAn open person has done the most inner work. It may have taken them years to open up: one of the strongest fears is the fear of rejection.\n\nWhen I talk with a friend and it gets heavy, the only thing that helps is talking about myself.\n\nOnce I stopped lying, especially to myself, I stopped doing things I couldn’t talk about.\n\nSpeak about yourself. The ones you can do this with are your people."
         },
         {
           "id": "ru-speak-about-yourself",
@@ -165,7 +165,7 @@
           "categories": "",
           "tags": "",
           "url": "/ru/speak-about-yourself",
-          "content": "Мы взрослые люди. Мы не говорим о проблемах — мы просто молчим три дня, а потом отвечаем со скобочкой.\n\nНастоящий разговор начинается, когда начинаешь говорить о себе. Остальное — темы: новости, чужие дела, отговорки, разбор чьей-то защиты.\n\nРассказывая, ты узнаёшь, что с тобой происходит.\n\nОткрытый человек — самый проработанный человек. Ему потребовались, возможно, долгие годы, чтобы распахнуться: один из самых мощных страхов — страх отвержения.\n\nКогда я пытаюсь поговорить с другом и грустновато — помогает только про себя всем рассказывать.\n\nГовори о себе. С кем это получается — те и твои люди."
+          "content": "Мы взрослые люди. Мы не говорим о проблемах — мы просто молчим три дня, а потом отвечаем со скобочкой.\n\nНастоящий разговор начинается, когда начинаешь говорить о себе. Остальное — темы: новости, чужие дела, отговорки, разбор чьей-то защиты.\n\nРассказывая, ты узнаёшь, что с тобой происходит.\n\nОткрытый человек — самый проработанный человек. Ему потребовались, возможно, долгие годы, чтобы распахнуться: один из самых мощных страхов — страх отвержения.\n\nКогда я пытаюсь поговорить с другом и грустновато — помогает только про себя всем рассказывать.\n\nКогда я перестал врать, особенно себе, я перестал делать то, о чём не смогу рассказать.\n\nГовори о себе. С кем это получается — те и твои люди."
         },
         {
           "id": "find-your-people",
@@ -838,6 +838,30 @@
           "tags": "",
           "url": "/ru/level-up",
           "content": "Идея повышения уровня сознания пронизывает все религии и философии. Движение от «всё — мне» к «всё — всем».\n\nУровень слышно по речи. «Жизнь — отстой». «Моя жизнь — отстой». «Я ок, а вы — нет» — тут большинство. «Мы ок, а они — нет». И пятый: «всё хорошо» — там нет страха, стресса и конфликтов.\n\nДля решения проблемы необходимо подняться на уровень выше.\n\nТы — автор своей реальности, а не жертва обстоятельств."
+        },
+        {
+          "id": "integrity",
+          "title": "Integrity",
+          "collection": {
+            "label": "cards",
+            "name": "Cards"
+          },
+          "categories": "",
+          "tags": "",
+          "url": "/integrity",
+          "content": "We’re made of layers. The three closest to the surface are thoughts, words and deeds.\n\nThoughts we choose — we make them inside ourselves. Words are the signals we send. Deeds are where we actually meet the world.\n\nLive so that your thoughts, words and deeds don’t drift apart.\n\nFirst, stop fooling yourself."
+        },
+        {
+          "id": "ru-integrity",
+          "title": "Целостность",
+          "collection": {
+            "label": "cards",
+            "name": "Cards"
+          },
+          "categories": "",
+          "tags": "",
+          "url": "/ru/integrity",
+          "content": "Человек состоит из нескольких слоёв. Ближе всего к поверхности три: мысли, слова и дела.\n\nМысли мы выбираем — производим их внутри себя. Словами подаём сигналы. Делами уже взаимодействуем с миром.\n\nЖить надо так, чтобы мысли, слова и дела не расходились.\n\nСначала перестань обманывать себя."
         },
         {
           "id": "do-not-lie",
