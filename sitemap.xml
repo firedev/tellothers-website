@@ -925,6 +925,18 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/soul" />
   </url>
   <url>
+    <loc>https://tellothers.com/the-village</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/the-village" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/the-village" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/the-village" />
+  </url>
+  <url>
+    <loc>https://tellothers.com/ru/the-village</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/the-village" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/the-village" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/the-village" />
+  </url>
+  <url>
     <loc>https://tellothers.com/karma</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/karma" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/karma" />

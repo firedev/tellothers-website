@@ -153,7 +153,7 @@
           "categories": "",
           "tags": "",
           "url": "/speak-about-yourself",
-          "content": "We’re adults. We don’t talk about problems — we just go silent for three days and then reply with a “:)”.\n\nA real conversation starts when you start talking about yourself. Everything else is topics: news, other people’s business, excuses, taking apart someone’s defenses.\n\nTalking, you find out what’s going on with you.\n\nOpening up is the biggest inner work there is. It can take years: one of the strongest fears is the fear of rejection. For real, when you talk about yourself, you send signals to your people. The ones it pushes away — you don’t need them. Find your people.\n\nWhen I talk with a friend and it gets heavy, the only thing that helps is talking about myself.\n\nOnce I stopped lying, especially to myself, I stopped doing things I couldn’t talk about.\n\nSpeak about yourself. The ones you can do this with are your people."
+          "content": "We’re adults. We don’t talk about problems — we just go silent for three days and then reply with a “:)”.\n\nA real conversation starts when you start talking about yourself. Everything else is topics: news, other people’s business, excuses. You talk with someone, and they say nothing about themselves — and it gets a little sad.\n\nTalking, you find out what’s going on with you.\n\nOpening up is the biggest inner work there is. It takes years: the fear of rejection is one of the strongest there is. For real, when you talk about yourself, you send signals to your people. Find your people.\n\nOnce I stopped lying, especially to myself, I stopped doing things I couldn’t talk about.\n\nSpeak about yourself. The ones you can do this with are your people."
         },
         {
           "id": "ru-speak-about-yourself",
@@ -165,7 +165,7 @@
           "categories": "",
           "tags": "",
           "url": "/ru/speak-about-yourself",
-          "content": "Мы взрослые люди. Мы не говорим о проблемах — мы просто молчим три дня, а потом отвечаем со скобочкой.\n\nНастоящий разговор начинается, когда начинаешь говорить о себе. Остальное — темы: новости, чужие дела, отговорки, разбор чьей-то защиты.\n\nРассказывая, ты узнаёшь, что с тобой происходит.\n\nОткрыться — самая большая работа над собой. На неё могут уйти годы: один из самых мощных страхов — страх отвержения. На самом деле, рассказывая о себе, ты подаёшь сигналы своим. Те, кого это отталкивает, тебе не нужны. Ищи своих.\n\nКогда я пытаюсь поговорить с другом и грустновато — помогает только про себя всем рассказывать.\n\nКогда я перестал врать, особенно себе, я перестал делать то, о чём не смогу рассказать.\n\nГовори о себе. С кем это получается — те и твои люди."
+          "content": "Мы взрослые люди. Мы не говорим о проблемах — мы просто молчим три дня, а потом отвечаем со скобочкой.\n\nНастоящий разговор начинается, когда начинаешь говорить о себе. Остальное — темы: новости, чужие дела, отговорки. Говоришь с человеком, а о себе он ни слова, — и становится грустновато.\n\nРассказывая, ты узнаёшь, что с тобой происходит.\n\nОткрыться — самая большая работа над собой. На неё уходят годы: страх отвержения — один из самых сильных. На самом деле, рассказывая о себе, ты подаёшь сигналы своим. Ищи своих.\n\nКогда я перестал врать, особенно себе, я перестал делать то, о чём не смогу рассказать.\n\nГовори о себе. С кем это получается — те и твои люди."
         },
         {
           "id": "find-your-people",
@@ -1798,6 +1798,30 @@
           "tags": "",
           "url": "/ru/soul",
           "content": "Pixar, когда делали Soul, долго искали, как изобразить душу. В итоге души у них стали такие безличные. А ранний вариант, где душа в виде радуги, ближе к правде.\n\n\n\nТут вспоминается английское true colors — истинные цвета. То, чем ты раскрашен внутри.\n\nЕщё больше мне нравится сравнивать душу с музыкой. Какая музыка играет у тебя внутри? Какие ноты в ней звучат — злость, страх, ревность? Или радость, любовь, добро?\n\nРадость — это выбор."
+        },
+        {
+          "id": "the-village",
+          "title": "The Village",
+          "collection": {
+            "label": "cards",
+            "name": "Cards"
+          },
+          "categories": "",
+          "tags": "",
+          "url": "/the-village",
+          "content": "Those we don&#8217;t speak of.\n\nNo need to tiptoe around anything.\n\nSpeak about yourself."
+        },
+        {
+          "id": "ru-the-village",
+          "title": "Таинственный лес",
+          "collection": {
+            "label": "cards",
+            "name": "Cards"
+          },
+          "categories": "",
+          "tags": "",
+          "url": "/ru/the-village",
+          "content": "Те, о ком мы не говорим.\n\nВокруг ничего обходить не надо.\n\nГовори о себе."
         },
         {
           "id": "karma",
