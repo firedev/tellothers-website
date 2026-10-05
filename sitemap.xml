@@ -265,6 +265,18 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/wake-up" />
   </url>
   <url>
+    <loc>https://tellothers.com/what-it-is</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/what-it-is" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/what-it-is" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/what-it-is" />
+  </url>
+  <url>
+    <loc>https://tellothers.com/ru/what-it-is</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/what-it-is" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/what-it-is" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/what-it-is" />
+  </url>
+  <url>
     <loc>https://tellothers.com/brain-receiver</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/brain-receiver" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/brain-receiver" />
