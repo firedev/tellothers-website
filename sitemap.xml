@@ -205,16 +205,16 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/surrender" />
   </url>
   <url>
-    <loc>https://tellothers.com/all-for-the-brain</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/all-for-the-brain" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/all-for-the-brain" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/all-for-the-brain" />
+    <loc>https://tellothers.com/brain</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/brain" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/brain" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/brain" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/all-for-the-brain</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/all-for-the-brain" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/all-for-the-brain" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/all-for-the-brain" />
+    <loc>https://tellothers.com/ru/brain</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/brain" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/brain" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/brain" />
   </url>
   <url>
     <loc>https://tellothers.com/body-friend</loc>
@@ -241,16 +241,16 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/skip-breakfast" />
   </url>
   <url>
-    <loc>https://tellothers.com/dont-believe-thoughts</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/dont-believe-thoughts" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/dont-believe-thoughts" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/dont-believe-thoughts" />
+    <loc>https://tellothers.com/listener</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/listener" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/listener" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/listener" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/dont-believe-thoughts</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/dont-believe-thoughts" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/dont-believe-thoughts" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/dont-believe-thoughts" />
+    <loc>https://tellothers.com/ru/listener</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/listener" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/listener" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/listener" />
   </url>
   <url>
     <loc>https://tellothers.com/wake-up</loc>
@@ -397,16 +397,16 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/my-world" />
   </url>
   <url>
-    <loc>https://tellothers.com/through-not-around</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/through-not-around" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/through-not-around" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/through-not-around" />
+    <loc>https://tellothers.com/through</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/through" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/through" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/through" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/through-not-around</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/through-not-around" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/through-not-around" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/through-not-around" />
+    <loc>https://tellothers.com/ru/through</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/through" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/through" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/through" />
   </url>
   <url>
     <loc>https://tellothers.com/write</loc>
@@ -421,16 +421,16 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/write" />
   </url>
   <url>
-    <loc>https://tellothers.com/talk-yourself-out</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/talk-yourself-out" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/talk-yourself-out" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/talk-yourself-out" />
+    <loc>https://tellothers.com/talk-it-out</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/talk-it-out" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/talk-it-out" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/talk-it-out" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/talk-yourself-out</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/talk-yourself-out" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/talk-yourself-out" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/talk-yourself-out" />
+    <loc>https://tellothers.com/ru/talk-it-out</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/talk-it-out" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/talk-it-out" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/talk-it-out" />
   </url>
   <url>
     <loc>https://tellothers.com/life-shelves</loc>
@@ -445,16 +445,16 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/life-shelves" />
   </url>
   <url>
-    <loc>https://tellothers.com/locate-control-inside</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/locate-control-inside" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/locate-control-inside" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/locate-control-inside" />
+    <loc>https://tellothers.com/locus</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/locus" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/locus" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/locus" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/locate-control-inside</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/locate-control-inside" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/locate-control-inside" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/locate-control-inside" />
+    <loc>https://tellothers.com/ru/locus</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/locus" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/locus" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/locus" />
   </url>
   <url>
     <loc>https://tellothers.com/stop-doubting</loc>
@@ -553,16 +553,16 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/be-bored" />
   </url>
   <url>
-    <loc>https://tellothers.com/the-day-only-gets-better</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/the-day-only-gets-better" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/the-day-only-gets-better" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/the-day-only-gets-better" />
+    <loc>https://tellothers.com/better</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/better" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/better" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/better" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/the-day-only-gets-better</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/the-day-only-gets-better" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/the-day-only-gets-better" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/the-day-only-gets-better" />
+    <loc>https://tellothers.com/ru/better</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/better" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/better" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/better" />
   </url>
   <url>
     <loc>https://tellothers.com/do-what-you-like</loc>
@@ -637,16 +637,16 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/dont-get-tired" />
   </url>
   <url>
-    <loc>https://tellothers.com/life-is-all-we-got</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/life-is-all-we-got" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/life-is-all-we-got" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/life-is-all-we-got" />
+    <loc>https://tellothers.com/all-we-got</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/all-we-got" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/all-we-got" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/all-we-got" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/life-is-all-we-got</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/life-is-all-we-got" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/life-is-all-we-got" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/life-is-all-we-got" />
+    <loc>https://tellothers.com/ru/all-we-got</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/all-we-got" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/all-we-got" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/all-we-got" />
   </url>
   <url>
     <loc>https://tellothers.com/be-grateful</loc>
