@@ -1761,7 +1761,7 @@
           "categories": "",
           "tags": "",
           "url": "/generation-p",
-          "content": "Watched Generation P. Expected nothing. Great film. Got my brain moving."
+          "content": "Watched Generation P. Expected nothing. Great film. Got my brain going."
         },
         {
           "id": "ru-generation-p",
@@ -1822,6 +1822,30 @@
           "tags": "",
           "url": "/ru/the-village",
           "content": "Те, о ком мы не говорим.\n\nВокруг ничего обходить не надо.\n\nГовори о себе."
+        },
+        {
+          "id": "dark-matter",
+          "title": "Dark Matter",
+          "collection": {
+            "label": "cards",
+            "name": "Cards"
+          },
+          "categories": "",
+          "tags": "",
+          "url": "/dark-matter",
+          "content": "An Apple TV series. A guy invents a way to cross into parallel universes. At first I thought it was about space. It turned out to be about love and the life you could have had.\n\nThey say it like it is.\n\n\n  What if these worlds reflect our state of mind?\n\n  It seems you can just focus on the world you want to see and connect to it. But it takes much more. Everything gets in the way — fear, wandering thoughts, subconscious desires.\n\n  No world can be perfect. We have to choose to make our life as beautiful as it can be.\n\n  — Dark Matter\n\n\nIt’s about me.\n\nWatch it."
+        },
+        {
+          "id": "ru-dark-matter",
+          "title": "Тёмная материя",
+          "collection": {
+            "label": "cards",
+            "name": "Cards"
+          },
+          "categories": "",
+          "tags": "",
+          "url": "/ru/dark-matter",
+          "content": "Сериал на Apple TV. Чел изобрёл способ переходить в параллельные вселенные. Я сначала думал, это про космос. Оказалось — про любовь и про то, какой могла бы быть жизнь.\n\nТам всё говорят как есть.\n\n\n  Что если эти миры — отражения нашего состояния?\n\n  Кажется, что можешь просто сосредоточиться на мире, который хочешь увидеть, и соединиться с ним. Но нужно гораздо больше. Всё мешает — страх, блуждающие мысли, подсознательные желания.\n\n  Ни один мир не может быть идеальным. Мы должны выбрать сделать свою жизнь настолько прекрасной, насколько это возможно.\n\n  — «Тёмная материя»\n\n\nОн про меня.\n\nСмотри."
         },
         {
           "id": "karma",
