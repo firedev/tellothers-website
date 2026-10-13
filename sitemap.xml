@@ -397,6 +397,18 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/my-world" />
   </url>
   <url>
+    <loc>https://tellothers.com/think-forward</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/think-forward" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/think-forward" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/think-forward" />
+  </url>
+  <url>
+    <loc>https://tellothers.com/ru/think-forward</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/think-forward" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/think-forward" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/think-forward" />
+  </url>
+  <url>
     <loc>https://tellothers.com/through</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/through" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/through" />
