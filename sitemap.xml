@@ -397,16 +397,16 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/my-world" />
   </url>
   <url>
-    <loc>https://tellothers.com/go-through</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/go-through" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/go-through" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/go-through" />
+    <loc>https://tellothers.com/through</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/through" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/through" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/through" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/go-through</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/go-through" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/go-through" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/go-through" />
+    <loc>https://tellothers.com/ru/through</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/through" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/through" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/through" />
   </url>
   <url>
     <loc>https://tellothers.com/write</loc>
