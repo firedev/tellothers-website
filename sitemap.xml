@@ -589,16 +589,16 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/love-life" />
   </url>
   <url>
-    <loc>https://tellothers.com/true-desires</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/true-desires" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/true-desires" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/true-desires" />
+    <loc>https://tellothers.com/desire</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/desire" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/desire" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/desire" />
   </url>
   <url>
-    <loc>https://tellothers.com/ru/true-desires</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/true-desires" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/true-desires" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/true-desires" />
+    <loc>https://tellothers.com/ru/desire</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/desire" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/desire" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/desire" />
   </url>
   <url>
     <loc>https://tellothers.com/best-world</loc>
