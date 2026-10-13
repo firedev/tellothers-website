@@ -433,7 +433,7 @@
         },
         {
           "id": "dont-believe-thoughts",
-          "title": "You're the one who hears",
+          "title": "Don't believe your thoughts",
           "collection": {
             "label": "cards",
             "name": "Cards"
@@ -445,7 +445,7 @@
         },
         {
           "id": "ru-dont-believe-thoughts",
-          "title": "Ты тот, кто слышит",
+          "title": "Не верь мыслям",
           "collection": {
             "label": "cards",
             "name": "Cards"
@@ -937,7 +937,7 @@
         },
         {
           "id": "do-not-lie",
-          "title": "Tell the truth",
+          "title": "Don't lie",
           "collection": {
             "label": "cards",
             "name": "Cards"
@@ -949,7 +949,7 @@
         },
         {
           "id": "ru-do-not-lie",
-          "title": "Говори правду",
+          "title": "Не ври",
           "collection": {
             "label": "cards",
             "name": "Cards"
@@ -993,7 +993,7 @@
           "categories": "",
           "tags": "",
           "url": "/freedom",
-          "content": "If life is all we’ve got, the thing that matters most in it isn’t money. It’s freedom — being able to do what you want.\n\nFreedom isn’t what you can afford. It’s the path you choose when everything is allowed.\n\nFreedom is what’s mine. I’d happily work for less money and more freedom.\n\nI work for freedom, not for things.\n\nSo how do you get there when everything around is this restless?\n\nThe world as we knew it a few years ago is over. Everything cheap and easy to get was more the exception than the rule. The only constant in life is change.\n\nKeep your business ready to sell, your home ready for guests, and yourself ready to leave.\n\nReady to sell means every process is transparent. Ready for guests means nothing extra, nothing lying around. Ready to leave means when the next catastrophe hits, you stand up and walk out.\n\nStock up on passports and bank accounts in different countries. Don’t grow too deep into base reality.\n\nHarry Browne: “You’re more flexible than the government.”\n\nIn life you can do anything once you’ve grown up. If you’re asking, you can’t.\n\nFreedom isn’t something you’re given or something taken from you. It’s something you take."
+          "content": "If life is all we’ve got, the thing that matters most in it isn’t money. It’s freedom — being able to do what you want.\n\nFreedom isn’t what you can afford. It’s the path you choose when everything is allowed.\n\nFreedom is what’s mine. I’d happily work for less money and more freedom.\n\nI don’t want to work to buy things I don’t need. I work for freedom.\n\nSo how do you get there when everything around is this restless?\n\nThe world as we knew it a few years ago is over. Everything cheap and easy to get was more the exception than the rule. The only constant in life is change.\n\nKeep your business ready to sell, your home ready for guests, and yourself ready to leave.\n\nReady to sell means every process is transparent. Ready for guests means nothing extra, nothing lying around. Ready to leave means when the next catastrophe hits, you stand up and walk out.\n\nStock up on passports and bank accounts in different countries. Don’t grow too deep into base reality.\n\nHarry Browne: “You’re more flexible than the government.”\n\nIn life you can do anything once you’ve grown up. If you’re asking, you can’t.\n\nFreedom isn’t something you’re given or something taken from you. It’s something you take."
         },
         {
           "id": "ru-freedom",
@@ -1005,7 +1005,7 @@
           "categories": "",
           "tags": "",
           "url": "/ru/freedom",
-          "content": "Если всё, что есть, — это жизнь, то самая главная ценность в ней не деньги. Это свобода — возможность делать то, что ты хочешь.\n\nСвобода не в том, что ты себе можешь позволить, а в том, какой путь ты выбираешь, когда можно всё.\n\nСвобода — это то, что моё. Я бы с удовольствием работал за меньшие деньги с большей свободой.\n\nЯ работаю на свободу, а не на вещи.\n\nА как её достичь, когда всё вокруг такое неспокойное?\n\nМир, каким мы его помнили ещё несколько лет назад, закончился. Всё дешёвое и доступное было скорее аномалией, чем правилом. Единственное, что в жизни постоянно, — это перемены.\n\nГотовь бизнес к продаже, дом — к приходу гостей, а себя — к отъезду.\n\nБизнес к продаже — все процессы прозрачны. Дом к гостям — нет лишнего и ничего не валяется. Себя к отъезду — случись очередная катастрофа, встаёшь и выходишь.\n\nЗапасайся паспортами и счетами в разных странах. Не врастай слишком в базовую реальность.\n\nГарри Браун: «Вы гибче правительства».\n\nВ жизни можно всё, если ты созрел и повзрослел. Если ты спрашиваешь — тебе нельзя.\n\nСвобода — это не то, что дают или отнимают. Это то, что ты берёшь сам."
+          "content": "Если всё, что есть, — это жизнь, то самая главная ценность в ней не деньги. Это свобода — возможность делать то, что ты хочешь.\n\nСвобода не в том, что ты себе можешь позволить, а в том, какой путь ты выбираешь, когда можно всё.\n\nСвобода — это то, что моё. Я бы с удовольствием работал за меньшие деньги с большей свободой.\n\nЯ не хочу работать, чтобы покупать вещи, которые не нужны. Я работаю на свободу.\n\nА как её достичь, когда всё вокруг такое неспокойное?\n\nМир, каким мы его помнили ещё несколько лет назад, закончился. Всё дешёвое и доступное было скорее аномалией, чем правилом. Единственное, что в жизни постоянно, — это перемены.\n\nГотовь бизнес к продаже, дом — к приходу гостей, а себя — к отъезду.\n\nБизнес к продаже — все процессы прозрачны. Дом к гостям — нет лишнего и ничего не валяется. Себя к отъезду — случись очередная катастрофа, встаёшь и выходишь.\n\nЗапасайся паспортами и счетами в разных странах. Не врастай слишком в базовую реальность.\n\nГарри Браун: «Вы гибче правительства».\n\nВ жизни можно всё, если ты созрел и повзрослел. Если ты спрашиваешь — тебе нельзя.\n\nСвобода — это не то, что дают или отнимают. Это то, что ты берёшь сам."
         },
         {
           "id": "mine-joy",
@@ -1353,7 +1353,7 @@
           "categories": "",
           "tags": "",
           "url": "/learn-buddhism",
-          "content": "Buddhism is a manual for how the mind suffers and how to stop it. The most precise psychology I’ve come across.\n\nI came for the meditation and stayed for the framework. It’s called dharma. The way out of the wheel is nirvana.\n\nThe Buddha said: don’t take my word for it, check for yourself. Once you start checking, everything looks different. There’s nothing left to believe in. You become who you were from the start. You return to your original shape.\n\n\n  Paying attention to whatever is happening is mindfulness meditation.\n\n\n— Robert Wright, Why Buddhism Is True\n\nStart with one book, then sit. The method works.\n\nBuddhism gives you the foundation, the instructions. The last mile you walk yourself."
+          "content": "Buddhism is a manual for how the mind suffers and how to stop it. The most precise psychology I’ve come across.\n\nI came for the meditation and stayed for the framework. It’s called dharma. The way out of the wheel is nirvana.\n\nThe Buddha said: don’t take my word for it, check for yourself. Once you start checking, everything looks different. There’s nothing left to believe in. You become who you were from the start. You return to your original shape.\n\n\n  Paying attention to whatever is happening is mindfulness meditation.\n\n\n— Robert Wright, Why Buddhism Is True\n\nStart with one book, then sit.\n\nA technology of liberation. The method works.\n\nBuddhism gives you the foundation, the instructions. The last mile you walk yourself."
         },
         {
           "id": "ru-learn-buddhism",
@@ -1365,7 +1365,7 @@
           "categories": "",
           "tags": "",
           "url": "/ru/learn-buddhism",
-          "content": "Буддизм — инструкция о том, как ум страдает и как это прекратить. Самая точная психология, которую я встретил.\n\nПришёл за медитацией, остался за каркасом. Он зовётся дхармой, а выход из круга — нирваной.\n\nБудда сказал не верить, а проверить самому. Начинаешь проверять — и видишь всё по-другому. Верить не во что. Ты становишься тем, кем был изначально. Занимаешь исходную форму.\n\n\n  Обращать внимание на всё, что происходит, — это и есть медитация осознанности.\n\n\n— Роберт Райт, «Буддизм жжёт»\n\nНачни с одной книги, потом сядь. Метод рабочий.\n\nБуддизм даёт базу. Инструкции. А последнюю милю проходишь сам."
+          "content": "Буддизм — инструкция о том, как ум страдает и как это прекратить. Самая точная психология, которую я встретил.\n\nПришёл за медитацией, остался за каркасом. Он зовётся дхармой, а выход из круга — нирваной.\n\nБудда сказал не верить, а проверить самому. Начинаешь проверять — и видишь всё по-другому. Верить не во что. Ты становишься тем, кем был изначально. Занимаешь исходную форму.\n\n\n  Обращать внимание на всё, что происходит, — это и есть медитация осознанности.\n\n\n— Роберт Райт, «Буддизм жжёт»\n\nНачни с одной книги, потом сядь.\n\nТехнология освобождения. Метод рабочий.\n\nБуддизм даёт базу. Инструкции. А последнюю милю проходишь сам."
         },
         {
           "id": "biohacking",
