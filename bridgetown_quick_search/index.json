@@ -1857,7 +1857,7 @@
           "categories": "",
           "tags": "",
           "url": "/dark-matter",
-          "content": "An Apple TV series. A guy invents a way to cross into parallel universes. I thought it was something about space. It turned out to be about love and the life you could have had.\n\nThey say it like it is.\n\nWhat if these worlds reflect our state of mind?\n\nIt seems you can just focus on the world you want to see and connect to it. But it takes much more. Everything gets in the way — fear, wandering thoughts, subconscious desires.\n\nNo world can be perfect. We can choose to make our life as beautiful as it can be.\n\nThe series shows how we change the universe inside our heads.\n\nWatch it."
+          "content": "An Apple TV series. A guy invents a way to cross into parallel universes. I thought it was something about space. It turned out to be about love and the life you could have had.\n\nThey say it like it is.\n\nWhat if these worlds reflect our state of mind?\n\nIt seems you can just focus on the world you want to see and connect to it. But it takes much more. Everything gets in the way — fear, wandering thoughts, subconscious desires.\n\nNo world can be perfect. We can choose to make our life as beautiful as it can be.\n\nThe series shows how we change the universe inside our heads.\n\nSeason two is weaker: they started making things up on their own. Still plenty to think about.\n\nWatch it."
         },
         {
           "id": "ru-dark-matter",
@@ -1869,7 +1869,31 @@
           "categories": "",
           "tags": "",
           "url": "/ru/dark-matter",
-          "content": "Сериал на Apple TV. Чел изобрёл способ переходить в параллельные вселенные. Я думал, это что-то про космос. Оказалось — про любовь и про то, какой могла бы быть жизнь.\n\nТам всё говорят как есть.\n\nЧто если эти миры — отражения нашего состояния?\n\nКажется, что можешь просто сосредоточиться на мире, который хочешь увидеть, и соединиться с ним. Но нужно гораздо больше. Всё мешает — страх, блуждающие мысли, подсознательные желания.\n\nНи один мир не может быть идеальным. Мы можем выбрать сделать свою жизнь настолько прекрасной, насколько это возможно.\n\nВ сериале показано, как мы меняем вселенную в своей голове.\n\nСмотри."
+          "content": "Сериал на Apple TV. Чел изобрёл способ переходить в параллельные вселенные. Я думал, это что-то про космос. Оказалось — про любовь и про то, какой могла бы быть жизнь.\n\nТам всё говорят как есть.\n\nЧто если эти миры — отражения нашего состояния?\n\nКажется, что можешь просто сосредоточиться на мире, который хочешь увидеть, и соединиться с ним. Но нужно гораздо больше. Всё мешает — страх, блуждающие мысли, подсознательные желания.\n\nНи один мир не может быть идеальным. Мы можем выбрать сделать свою жизнь настолько прекрасной, насколько это возможно.\n\nВ сериале показано, как мы меняем вселенную в своей голове.\n\nВторой сезон слабее: начали придумывать сами. Но всё равно есть о чём подумать.\n\nСмотри."
+        },
+        {
+          "id": "sliding-doors",
+          "title": "Sliding Doors",
+          "collection": {
+            "label": "cards",
+            "name": "Cards"
+          },
+          "categories": "",
+          "tags": "",
+          "url": "/sliding-doors",
+          "content": "The film shows two versions of events at once. She makes the train. She misses it.\n\nIn a way, it&#8217;s about quantum immortality. You always live the version of reality where you survive. After all, you&#8217;re the one who survived."
+        },
+        {
+          "id": "ru-sliding-doors",
+          "title": "Осторожно, двери закрываются",
+          "collection": {
+            "label": "cards",
+            "name": "Cards"
+          },
+          "categories": "",
+          "tags": "",
+          "url": "/ru/sliding-doors",
+          "content": "Фильм показывает два варианта событий сразу. Успела на поезд. Не успела.\n\nВ каком-то смысле это про квантовое бессмертие. Ты всё время живёшь ту версию реальности, где выживаешь. Ведь это ты выжил."
         },
         {
           "id": "karma",

@@ -1105,6 +1105,18 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/dark-matter" />
   </url>
   <url>
+    <loc>https://tellothers.com/sliding-doors</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/sliding-doors" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/sliding-doors" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/sliding-doors" />
+  </url>
+  <url>
+    <loc>https://tellothers.com/ru/sliding-doors</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/sliding-doors" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tellothers.com/ru/sliding-doors" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tellothers.com/sliding-doors" />
+  </url>
+  <url>
     <loc>https://tellothers.com/karma</loc>
     <lastmod>2026-10-05T13:31:13+07:00</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://tellothers.com/karma" />

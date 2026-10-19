@@ -108,6 +108,7 @@ Full text of every card: https://tellothers.com/llms-full.txt
 - [Soul](https://tellothers.com/soul): What music is playing inside you
 - [The Village](https://tellothers.com/the-village): Those we don't speak of
 - [Dark Matter](https://tellothers.com/dark-matter): What if these worlds reflect our state of mind?
+- [Sliding Doors](https://tellothers.com/sliding-doors): You always live the branch where you survived
 
 ## Glossary
 
@@ -238,6 +239,7 @@ Full text of every card: https://tellothers.com/llms-full.txt
 - [Душа](https://tellothers.com/ru/soul): Какая музыка играет у тебя внутри
 - [Таинственный лес](https://tellothers.com/ru/the-village): Те, о ком мы не говорим
 - [Тёмная материя](https://tellothers.com/ru/dark-matter): Что если эти миры — отражения нашего состояния?
+- [Осторожно, двери закрываются](https://tellothers.com/ru/sliding-doors): Ты всегда живёшь ветку, где выжил
 
 ## Словарь (Русский)
 
