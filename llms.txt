@@ -116,7 +116,7 @@ Full text of every card: https://tellothers.com/llms-full.txt
 - [Krishna](https://tellothers.com/krishna): The god of serotonin. Joy
 - [Ganesha](https://tellothers.com/ganesha): The god of dopamine. Action
 - [Shiva](https://tellothers.com/shiva): The god of consciousness
-- [Suffering](https://tellothers.com/suffering): Dukkha. An unsteady axle on a wheel
+- [Suffering](https://tellothers.com/suffering): Dukkha. A crooked axle
 - [Dharma](https://tellothers.com/dharma): The way. How to live
 - [Samsara](https://tellothers.com/samsara): The wheel of repeating states
 - [Nirvana](https://tellothers.com/nirvana): The spinning stops
@@ -247,7 +247,7 @@ Full text of every card: https://tellothers.com/llms-full.txt
 - [Кришна](https://tellothers.com/ru/krishna): Бог серотонина. Радость
 - [Ганеша](https://tellothers.com/ru/ganesha): Бог дофамина. Дело
 - [Шива](https://tellothers.com/ru/shiva): Бог сознания
-- [Страдание](https://tellothers.com/ru/suffering): Дуккха. Неустойчивая ось колеса
+- [Страдание](https://tellothers.com/ru/suffering): Дуккха. Кривая ось колеса
 - [Дхарма](https://tellothers.com/ru/dharma): Путь. Способ жить
 - [Сансара](https://tellothers.com/ru/samsara): Круг повторяющихся состояний
 - [Нирвана](https://tellothers.com/ru/nirvana): Остановка кручения
