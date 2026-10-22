@@ -65,7 +65,7 @@ Full text of every card: https://tellothers.com/llms-full.txt
 ## Joy
 
 - [Mine joy](https://tellothers.com/mine-joy): Joy is a choice. Mine it
-- [Be bored](https://tellothers.com/be-bored): Let yourself be bored — that's where the wanting wakes up
+- [Be bored](https://tellothers.com/be-bored): Interest needs boredom first
 - [The day only gets better](https://tellothers.com/the-day-only-gets-better): Notice it. Say it
 - [Do what you like](https://tellothers.com/do-what-you-like): Just want it harder
 - [Love life](https://tellothers.com/love-life): Nothing extra. Only what you love
@@ -196,7 +196,7 @@ Full text of every card: https://tellothers.com/llms-full.txt
 ## Радость (Русский)
 
 - [Майнинг радости](https://tellothers.com/ru/mine-joy): Радость — это выбор. Её надо добывать
-- [Скучай](https://tellothers.com/ru/be-bored): Дай себе заскучать — там просыпается «хочу»
+- [Скучай](https://tellothers.com/ru/be-bored): Чтобы был интерес, должно быть скучно
 - [День становится только лучше](https://tellothers.com/ru/the-day-only-gets-better): Заметил — скажи
 - [Делай что нравится](https://tellothers.com/ru/do-what-you-like): Только хоти сильнее
 - [Люби жизнь](https://tellothers.com/ru/love-life): Ничего лишнего. Только любимое
