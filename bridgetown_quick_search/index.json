@@ -721,7 +721,7 @@
         },
         {
           "id": "my-world",
-          "title": "My world",
+          "title": "Reality creator",
           "collection": {
             "label": "cards",
             "name": "Cards"
@@ -733,7 +733,7 @@
         },
         {
           "id": "ru-my-world",
-          "title": "Мой мир",
+          "title": "Создатель реальности",
           "collection": {
             "label": "cards",
             "name": "Cards"
