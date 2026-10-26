@@ -1896,6 +1896,54 @@
           "content": "Фильм показывает два варианта событий сразу. Успела на поезд. Не успела.\n\nВ каком-то смысле это про квантовое бессмертие. Ты всё время живёшь ту версию реальности, где выживаешь. Ведь это ты выжил."
         },
         {
+          "id": "cyberpunk-edgerunners",
+          "title": "Cyberpunk: Edgerunners",
+          "collection": {
+            "label": "cards",
+            "name": "Cards"
+          },
+          "categories": "",
+          "tags": "",
+          "url": "/cyberpunk-edgerunners",
+          "content": "An anime series on Netflix, set in the world of Cyberpunk. It shows the many processes going on in the head.\n\nPeople put in implants and gain new powers. Overdo it and you slide into cyberpsychosis.\n\nOurs is pharmapunk.\n\nAnd it shows how beliefs shape the world.\n\nWatch it."
+        },
+        {
+          "id": "ru-cyberpunk-edgerunners",
+          "title": "Киберпанк: Бегущие по краю",
+          "collection": {
+            "label": "cards",
+            "name": "Cards"
+          },
+          "categories": "",
+          "tags": "",
+          "url": "/ru/cyberpunk-edgerunners",
+          "content": "Аниме-сериал на Netflix, в мире Cyberpunk. Показывает, сколько процессов происходит в голове.\n\nЛюди ставят импланты и получают новые способности. Перебор — и начинается киберпсихоз.\n\nУ нас фармапанк.\n\nИ показывает, как убеждения создают мир.\n\nСмотри."
+        },
+        {
+          "id": "pantheon",
+          "title": "Pantheon",
+          "collection": {
+            "label": "cards",
+            "name": "Cards"
+          },
+          "categories": "",
+          "tags": "",
+          "url": "/pantheon",
+          "content": "An animated series on Prime Video. The best depiction of deep states of the mind.\n\nAfter Pantheon, all the science fiction I watched before looks flat. So many layers. It&#8217;s like an illustration of Pelevin&#8217;s Transhumanism Inc., except Transhumanism came out a year earlier.\n\nWatch it."
+        },
+        {
+          "id": "ru-pantheon",
+          "title": "Пантеон",
+          "collection": {
+            "label": "cards",
+            "name": "Cards"
+          },
+          "categories": "",
+          "tags": "",
+          "url": "/ru/pantheon",
+          "content": "Анимационный сериал на Prime Video. Лучшее изображение глубоких состояний ума.\n\nПосле «Пантеона» вся фантастика, что я смотрел до этого, выглядит плоской. Столько слоёв. Это как иллюстрация к «Transhumanism Inc.» Пелевина, только «Трансгуманизм» вышел на год раньше.\n\nСмотри."
+        },
+        {
           "id": "karma",
           "title": "Karma",
           "collection": {
