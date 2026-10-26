@@ -135,7 +135,6 @@ Full text of every card: https://tellothers.com/llms-full.txt
 - [Anicca](https://tellothers.com/anicca): Impermanence
 - [Shunyata](https://tellothers.com/shunyata): Emptiness
 - [Satori](https://tellothers.com/satori): A flash of clarity
-- [Jhanas](https://tellothers.com/jhanas): Eight depths of meditation
 - [Turiya](https://tellothers.com/turiya): The fourth
 - [Locus](https://tellothers.com/locus): The assemblage point
 
@@ -270,6 +269,5 @@ Full text of every card: https://tellothers.com/llms-full.txt
 - [Аничча](https://tellothers.com/ru/anicca): Непостоянство
 - [Шуньята](https://tellothers.com/ru/shunyata): Пустотность
 - [Сатори](https://tellothers.com/ru/satori): Вспышка ясности
-- [Джханы](https://tellothers.com/ru/jhanas): Восемь глубин медитации
 - [Турия](https://tellothers.com/ru/turiya): Четвёртое
 - [Локус](https://tellothers.com/ru/locus): Точка сборки

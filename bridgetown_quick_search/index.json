@@ -2448,30 +2448,6 @@
           "content": "Сатори — вспышка ясности. Дзен.\n\nСуть просветления — просто голову подними, ты заснул за столом.\n\nТо же, на что указывает адвайта, — только разом и без объяснений.\n\nХорошее случается, когда перестаёшь изо всех сил его добиваться."
         },
         {
-          "id": "jhanas",
-          "title": "Jhanas",
-          "collection": {
-            "label": "cards",
-            "name": "Cards"
-          },
-          "categories": "",
-          "tags": "",
-          "url": "/jhanas",
-          "content": "The jhanas are eight stages of deepening in meditation. Samadhi unfolds along them.\n\nThe practice stays the same: sit still. The depth comes on its own."
-        },
-        {
-          "id": "ru-jhanas",
-          "title": "Джханы",
-          "collection": {
-            "label": "cards",
-            "name": "Cards"
-          },
-          "categories": "",
-          "tags": "",
-          "url": "/ru/jhanas",
-          "content": "Джханы — восемь ступеней углубления в медитации. По ним разворачивается самадхи.\n\nПрактика одна и та же: сиди молча. Глубина приходит сама."
-        },
-        {
           "id": "turiya",
           "title": "Turiya",
           "collection": {
