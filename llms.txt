@@ -17,7 +17,7 @@ Full text of every card: https://tellothers.com/llms-full.txt
 
 ## Work
 
-- [Work for yourself](https://tellothers.com/work-for-yourself): Whoever pays you, inside you always work for yourself
+- [Work for yourself](https://tellothers.com/work-for-yourself): Outside, for someone else. Inside, for yourself
 - [Choose your games](https://tellothers.com/your-game): Play where you like the rules
 - [No offense](https://tellothers.com/no-offense): Play for every round
 - [Compound your way out](https://tellothers.com/compound): 0.1% a day
@@ -148,7 +148,7 @@ Full text of every card: https://tellothers.com/llms-full.txt
 
 ## Работа (Русский)
 
-- [Работай на себя](https://tellothers.com/ru/work-for-yourself): Снаружи работаешь на кого-то, внутри — всегда на себя
+- [Работай на себя](https://tellothers.com/ru/work-for-yourself): Снаружи — на кого-то, внутри — на себя
 - [Выбирай свои игры](https://tellothers.com/ru/your-game): Играй там, где тебе нравятся правила
 - [Договаривайся необидно](https://tellothers.com/ru/no-offense): Думай обо всех раундах сразу
 - [Сложный процент](https://tellothers.com/ru/compound): 0,1% в день
