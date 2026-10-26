@@ -21,7 +21,7 @@ Full text of every card: https://tellothers.com/llms-full.txt
 - [Choose your games](https://tellothers.com/your-game): Play where you like the rules
 - [No offense](https://tellothers.com/no-offense): Play for every round
 - [Compound your way out](https://tellothers.com/compound): 0.1% a day
-- [Money won't stop](https://tellothers.com/money-flow): Count what is floating toward you
+- [Money won't stop](https://tellothers.com/money-flow): What the flow brings you
 - [Show up](https://tellothers.com/show-up): Don't be late. Keep your grip
 
 ## Body
@@ -29,7 +29,7 @@ Full text of every card: https://tellothers.com/llms-full.txt
 - [Surrender to the depth](https://tellothers.com/surrender): Real power is in letting go
 - [All for the brain](https://tellothers.com/all-for-the-brain): Grow your brain, grow your life
 - [The body is a friend](https://tellothers.com/body-friend): Feed it, train it, trust it
-- [Skip breakfast](https://tellothers.com/skip-breakfast): You wake up fasted. Eat later
+- [Skip breakfast](https://tellothers.com/skip-breakfast): Eat later
 
 ## Mind
 
@@ -152,7 +152,7 @@ Full text of every card: https://tellothers.com/llms-full.txt
 - [Выбирай свои игры](https://tellothers.com/ru/your-game): Играй там, где тебе нравятся правила
 - [Договаривайся необидно](https://tellothers.com/ru/no-offense): Думай обо всех раундах сразу
 - [Сложный процент](https://tellothers.com/ru/compound): 0,1% в день
-- [Деньги не кончатся](https://tellothers.com/ru/money-flow): Считай, что к тебе плывёт
+- [Деньги не кончатся](https://tellothers.com/ru/money-flow): Что к тебе несёт поток
 - [Приходи](https://tellothers.com/ru/show-up): Не опаздывай. Держи хватку
 
 ## Тело (Русский)
@@ -160,7 +160,7 @@ Full text of every card: https://tellothers.com/llms-full.txt
 - [Сдайся глубине](https://tellothers.com/ru/surrender): Настоящая сила — в сдаче
 - [Всё для мозга](https://tellothers.com/ru/all-for-the-brain): Растишь мозг — растишь жизнь
 - [Тело — друг](https://tellothers.com/ru/body-friend): Корми, тренируй, доверяй
-- [Пропусти завтрак](https://tellothers.com/ru/skip-breakfast): Просыпаешься в посте. Поешь позже
+- [Пропусти завтрак](https://tellothers.com/ru/skip-breakfast): Поешь позже
 
 ## Ум (Русский)
 
