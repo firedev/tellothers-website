@@ -84,7 +84,6 @@ Full text of every card: https://tellothers.com/llms-full.txt
 - [Learn Buddhism](https://tellothers.com/learn-buddhism): Liberation as technology
 - [Try biohacking](https://tellothers.com/biohacking): Bottom up — from sleep to microdosing
 - [Sobriety](https://tellothers.com/dont-drink): A clear head is the strongest psychedelic
-- [Turn off the receiver](https://tellothers.com/microdosing): Not tuning. Breakthrough
 
 ## Read
 
@@ -218,7 +217,6 @@ Full text of every card: https://tellothers.com/llms-full.txt
 - [Учи буддизм](https://tellothers.com/ru/learn-buddhism): Освобождение как технология
 - [Попробуй биохакинг](https://tellothers.com/ru/biohacking): Снизу вверх — от сна до микродозинга
 - [Трезвость](https://tellothers.com/ru/dont-drink): Ясная голова — самый сильный психоделик
-- [Выключи приёмник](https://tellothers.com/ru/microdosing): Не настройка. Пробитие
 
 ## Читай (Русский)
 
