@@ -1368,28 +1368,28 @@
           "content": "Фридайвинг — это не плавание и даже не ныряние. Это тренировка способности оставаться спокойным.\n\nНельзя нырять злым и раздражённым: сразу начнёт не хватать дыхания. Не смог успокоиться — не нырнул. Медитируй или всплывай.\n\nФридайвинг — это не преодоление, а отпускание. Все погружения должны быть лёгкими и приятными. Как и всё в жизни.\n\nИнструкторский мануал гласит: говори студентам, что делать, а не чего не делать. Мы учим не фридайвингу, а спокойствию и невозмутимости. Контролю. И контроль в том, чтобы отпустить контроль.\n\nКогда кажется какая-то дичь, просто расслабляешь ум и проваливаешься сквозь неё. С барьерами внутри себя так же: остаёшься невозмутимым, и они растворяются.\n\nНыряя, ты оставляешь персонажа на поверхности и погружаешься из его мира в самого себя. Отключаешься от суфлёра ума.\n\nЛучший дайв — когда двигаешься без мыслей и думаешь без слов. В медитации это состояние называют самадхи — ты просто исчезаешь.\n\nГлубина вымывает из тебя всё ненужное. И после этого ты можешь выбирать, что впустить обратно в свою жизнь.\n\nПопробуйте фридайвинг. Это спортзал для духа.\n\nFree as in freedom."
         },
         {
-          "id": "learn-buddhism",
-          "title": "Learn Buddhism",
+          "id": "buddhism",
+          "title": "Buddhism",
           "collection": {
             "label": "cards",
             "name": "Cards"
           },
           "categories": "",
           "tags": "",
-          "url": "/learn-buddhism",
-          "content": "Buddhism is a manual for how the mind suffers and how to stop it. The most precise psychology I’ve come across.\n\nI came for the meditation and stayed for the framework. It’s called dharma. The way out of the wheel is nirvana.\n\nThe whole of Buddhism: suffering is inevitable, but it isn’t real. And the entire Eightfold Path comes down to this: live, and don’t mess anything up.\n\nThe Buddha said: don’t take my word for it, check for yourself. Once you start checking, it turns out there’s nothing to believe in. Buddhism is a blueprint. Follow its precepts and you become who you were meant to be. You unfold from the inside and finally fill the shape you were always meant to take.\n\n\n  Paying attention to whatever is happening is mindfulness meditation.\n\n\n— Robert Wright, Why Buddhism Is True\n\nA technology of liberation. The method works. Start with one book, then sit down and close your eyes.\n\nBuddhism gives you the foundation, the instructions. The last mile you walk yourself."
+          "url": "/buddhism",
+          "content": "Buddhism is a manual for how the mind suffers and how to stop it. Positive psychology from ancient times.\n\nThe Buddha said: don’t take my word for it, check for yourself. Once you start checking, it turns out there’s nothing to believe in. Buddhism is a blueprint. Follow its precepts and you become who you were meant to be. You unfold from the inside and finally fill the shape you were always meant to take.\n\nI just wanted to learn how to meditate properly, and ended up finding the answer to how to live.\n\nThe whole of Buddhism: suffering is inevitable, but it isn’t real. And the whole path is to live without messing anything up. The path is called dharma. The way out of the wheel is nirvana.\n\n\n  Paying attention to whatever is happening is mindfulness meditation.\n\n\n— Robert Wright, Why Buddhism Is True\n\nBuddhism gives you the foundation, the instructions. It’s a technology for freeing the mind. The method works.\n\nStart with one book, then sit down and close your eyes.\n\nThe last mile you’ll have to walk yourself."
         },
         {
-          "id": "ru-learn-buddhism",
-          "title": "Учи буддизм",
+          "id": "ru-buddhism",
+          "title": "Буддизм",
           "collection": {
             "label": "cards",
             "name": "Cards"
           },
           "categories": "",
           "tags": "",
-          "url": "/ru/learn-buddhism",
-          "content": "Буддизм — инструкция о том, как ум страдает и как это прекратить. Самая точная психология, которую я встретил.\n\nПришёл за медитацией, остался за каркасом. Он зовётся дхармой, а выход из круга — нирваной.\n\nВся суть буддизма: страдания неизбежны, но они нереальны. А весь восьмеричный путь — просто живи и ничего не порти.\n\nБудда сказал не верить, а проверить самому. Начинаешь проверять — и оказывается, верить не во что: буддизм — это чертёж. Следуешь его заповедям — и становишься тем, кем должен был стать. Расправляешься изнутри и наконец заполняешь форму, которую должен был занять изначально.\n\n\n  Обращать внимание на всё, что происходит, — это и есть медитация осознанности.\n\n\n— Роберт Райт, «Буддизм жжёт»\n\nТехнология освобождения. Метод рабочий. Начни с одной книги, потом сядь и закрой глаза.\n\nБуддизм даёт базу. Инструкции. А последнюю милю проходишь сам."
+          "url": "/ru/buddhism",
+          "content": "Буддизм — инструкция о том, как ум страдает и как это прекратить. Позитивная психология из глубины веков.\n\nБудда сказал не верить, а проверить самому. Начинаешь проверять — и оказывается, верить не во что: буддизм — это чертёж. Следуешь его заповедям — и становишься тем, кем должен был стать. Расправляешься изнутри и наконец заполняешь форму, которую должен был занять изначально.\n\nЯ только хотел понять, как правильно медитировать, а в итоге увидел ответ на вопрос, как жить.\n\nВся суть буддизма: страдания неизбежны, но они нереальны. А весь путь — живи, ничего не портя. Путь зовётся дхармой, а выход из круга — нирваной.\n\n\n  Обращать внимание на всё, что происходит, — это и есть медитация осознанности.\n\n\n— Роберт Райт, «Буддизм жжёт»\n\nБуддизм даёт базу. Инструкции. Это технология освобождения ума. Метод рабочий.\n\nНачни с одной книги, потом сядь и закрой глаза.\n\nПоследнюю милю придётся пройти самому."
         },
         {
           "id": "biohacking",

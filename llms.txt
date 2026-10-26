@@ -81,7 +81,7 @@ Full text of every card: https://tellothers.com/llms-full.txt
 - [English](https://tellothers.com/english): The operating system of the world
 - [Meditation](https://tellothers.com/meditation): Close your eyes to see
 - [Try freediving](https://tellothers.com/try-freediving): A gym for the spirit
-- [Learn Buddhism](https://tellothers.com/learn-buddhism): Liberation as technology
+- [Buddhism](https://tellothers.com/buddhism): Liberation as technology
 - [Try biohacking](https://tellothers.com/biohacking): Bottom up — from sleep to microdosing
 - [Sobriety](https://tellothers.com/dont-drink): A clear head is the strongest psychedelic
 
@@ -214,7 +214,7 @@ Full text of every card: https://tellothers.com/llms-full.txt
 - [Английский](https://tellothers.com/ru/english): Операционная система мира
 - [Медитация](https://tellothers.com/ru/meditation): Закрыть глаза, чтобы видеть
 - [Попробуй фридайвинг](https://tellothers.com/ru/try-freediving): Спортзал для духа
-- [Учи буддизм](https://tellothers.com/ru/learn-buddhism): Освобождение как технология
+- [Буддизм](https://tellothers.com/ru/buddhism): Освобождение как технология
 - [Попробуй биохакинг](https://tellothers.com/ru/biohacking): Снизу вверх — от сна до микродозинга
 - [Трезвость](https://tellothers.com/ru/dont-drink): Ясная голова — самый сильный психоделик
 
