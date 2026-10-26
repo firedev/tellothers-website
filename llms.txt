@@ -79,7 +79,7 @@ Full text of every card: https://tellothers.com/llms-full.txt
 ## Try
 
 - [English](https://tellothers.com/english): The operating system of the world
-- [Sit still](https://tellothers.com/sit-still): From concepts back to reality
+- [Meditation](https://tellothers.com/meditation): Close your eyes to see
 - [Try freediving](https://tellothers.com/try-freediving): A gym for the spirit
 - [Learn Buddhism](https://tellothers.com/learn-buddhism): Liberation as technology
 - [Try biohacking](https://tellothers.com/biohacking): Bottom up — from sleep to microdosing
@@ -210,7 +210,7 @@ Full text of every card: https://tellothers.com/llms-full.txt
 ## Попробуй (Русский)
 
 - [Английский](https://tellothers.com/ru/english): Операционная система мира
-- [Сиди молча](https://tellothers.com/ru/sit-still): Медитация — переход из концептуальной реальности в реальную
+- [Медитация](https://tellothers.com/ru/meditation): Закрыть глаза, чтобы видеть
 - [Попробуй фридайвинг](https://tellothers.com/ru/try-freediving): Спортзал для духа
 - [Учи буддизм](https://tellothers.com/ru/learn-buddhism): Освобождение как технология
 - [Попробуй биохакинг](https://tellothers.com/ru/biohacking): Снизу вверх — от сна до микродозинга
