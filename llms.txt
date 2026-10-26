@@ -11,7 +11,7 @@ Full text of every card: https://tellothers.com/llms-full.txt
 - [Never dive alone](https://tellothers.com/never-dive-alone): The first rule in freediving. And in life
 - [Tell others](https://tellothers.com/tell-others): Improve life. Pass it on.
 - [Couple](https://tellothers.com/couple): No empty space between you
-- [Children](https://tellothers.com/children): They'll turn out like you anyway, so work on yourself, not on them
+- [Children](https://tellothers.com/children): They'll turn out like you. Work on yourself
 - [Speak about yourself](https://tellothers.com/speak-about-yourself): Where real conversation starts
 - [Find your people](https://tellothers.com/find-your-people): You can't drag anyone up a level
 
@@ -142,7 +142,7 @@ Full text of every card: https://tellothers.com/llms-full.txt
 - [Никогда не ныряй один](https://tellothers.com/ru/never-dive-alone): Первая заповедь фридайвинга. И жизни
 - [Скажи другим](https://tellothers.com/ru/tell-others): Улучши жизнь. Передай дальше.
 - [Пара](https://tellothers.com/ru/couple): Между вами нет пустоты
-- [Дети](https://tellothers.com/ru/children): Они всё равно будут похожи на тебя — так что занимайся собой, а не ими
+- [Дети](https://tellothers.com/ru/children): Будут похожи на тебя, занимайся собой
 - [Говори о себе](https://tellothers.com/ru/speak-about-yourself): Где начинается настоящий разговор
 - [Ищи своих](https://tellothers.com/ru/find-your-people): Никого на новый уровень не затащишь
 
