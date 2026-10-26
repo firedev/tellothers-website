@@ -136,6 +136,7 @@ Full text of every card: https://tellothers.com/llms-full.txt
 - [Satori](https://tellothers.com/satori): A flash of clarity
 - [Turiya](https://tellothers.com/turiya): The fourth
 - [Locus](https://tellothers.com/locus): The assemblage point
+- [Eightfold Path](https://tellothers.com/eightfold-path): Ethics, wisdom, meditation
 
 ## Люди (Русский)
 
@@ -269,3 +270,4 @@ Full text of every card: https://tellothers.com/llms-full.txt
 - [Сатори](https://tellothers.com/ru/satori): Вспышка ясности
 - [Турия](https://tellothers.com/ru/turiya): Четвёртое
 - [Локус](https://tellothers.com/ru/locus): Точка сборки
+- [Восьмеричный путь](https://tellothers.com/ru/eightfold-path): Мораль, мудрость, медитация

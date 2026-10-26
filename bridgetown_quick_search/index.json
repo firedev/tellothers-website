@@ -201,7 +201,7 @@
           "categories": "",
           "tags": "",
           "url": "/work-for-yourself",
-          "content": "Not against work. Against slavery.\n\nThe goal isn’t to earn. It’s to not work.\n\nThree levels:\n\n  UNDER — surviving. Just to not…\n  IN — living. Inside, participating, in the grind.\n  ABOVE — existing. Separately. Watching and doing what you need.\n\n\nThe goal is ABOVE. Don’t get roped in. Don’t take it all on yourself. Be OUTSIDE.\n\nThere’s a kind of torture:\n\n\n  A person sits in an office for a long, long time, the salary drips onto their card very, very slowly, and they go mad from it.\n\n\nI worked as a sysadmin once: set everything up, nobody bothered me — I’d come to my office and do remote coding work of my own. When I left, it turned out three months of salary had piled up. I had forgotten about it.\n\nI ran the numbers: from school to retirement you’re awake for 39 years. 13 of them go to school, work and the commute, another 6 to cooking, eating and cleaning. Almost half your waking life goes into being able to show up for work again tomorrow.\n\nYou don’t work for someone. The work works for you. Let it pay for your growth. Let it strengthen you. Let it fund your escape.\n\nDon’t fight. Use everything for yourself.\n\n\n  Find a way to be paid for playing.\n\n  — Alan Watts\n\n\nEither life does you, or you’re in it, or you do it.\n\nWork on your life, not in it."
+          "content": "Not against work. Against slavery.\n\nThe goal isn’t to earn. It’s to not work.\n\nThree levels:\n\n  UNDER — surviving. Just to not…\n  IN — living. Inside, participating, in the grind.\n  ABOVE — existing. Separately. Watching and doing what you need.\n\n\nThe goal is ABOVE. Don’t get roped in. Don’t take it all on yourself. Be OUTSIDE.\n\nThere’s a kind of torture:\n\n\n  A person sits in an office for a long, long time, the salary drips onto their card very, very slowly, and they go mad from it.\n\n\nI worked as a sysadmin once: set everything up, nobody bothered me — I’d come to my office and do remote coding work of my own. When I left, it turned out three months of salary had piled up. I had forgotten about it.\n\nI ran the numbers: from school to retirement you’re awake for 39 years. 13 of them go to school, work and the commute, another 6 to cooking, eating and cleaning. Almost half your waking life goes into being able to show up for work again tomorrow.\n\nYou don’t work for someone. The work works for you. Let it pay for your growth. Let it strengthen you. Let it fund your escape.\n\nDon’t fight. Use everything for yourself.\n\n\n  Find a way to be paid for playing.\n\n  — Alan Watts\n\n\nEither life does you in, or you’re in it, or you’re above it.\n\nWork on your life, not in it."
         },
         {
           "id": "ru-work-for-yourself",
@@ -2470,6 +2470,30 @@
           "tags": "",
           "url": "/ru/locus",
           "content": "Локус — точка, откуда ты себя осознаёшь. У Кастанеды это точка сборки.\n\nСдвинь её из слов в ощущения — и отличишь истинные желания от навязанных.\n\nВнутренний локус — водитель. Выиграл: «Я тренировался». Проиграл: «В следующий раз сильнее».\n\nВнешний — пассажир. Выиграл: «Повезло». Проиграл: «Вселенная против меня»."
+        },
+        {
+          "id": "eightfold-path",
+          "title": "Eightfold Path",
+          "collection": {
+            "label": "cards",
+            "name": "Cards"
+          },
+          "categories": "",
+          "tags": "",
+          "url": "/eightfold-path",
+          "content": "There is one truth. If you&#8217;re headed the right way, it doesn&#8217;t matter which road you take.\n\nThe eight steps of the Middle Way fall into three parts: ethics, wisdom and meditation.\n\nEthics: tell the truth, do good. Live with dignity, don&#8217;t deceive, don&#8217;t harm others.\n\nWisdom: good intentions and the ability to see through the illusion. The clues are left for you, but you have to follow them yourself.\n\nMeditation: the skill of stepping back from the film reel. You watch the movie without mistaking yourself for the actor. You notice there is no spoon: your suffering is made by your own perception."
+        },
+        {
+          "id": "ru-eightfold-path",
+          "title": "Восьмеричный путь",
+          "collection": {
+            "label": "cards",
+            "name": "Cards"
+          },
+          "categories": "",
+          "tags": "",
+          "url": "/ru/eightfold-path",
+          "content": "Истина одна. Если направление верное — неважно, каким путём ты идёшь.\n\nВосемь ступеней Срединного пути складываются в три части. Запомнить легко — МММ: мораль, мудрость и медитация.\n\nМораль — говори правду, неси добро. Живи достойно, не обманывай и не вреди другим.\n\nМудрость — добрые намерения и способность видеть сквозь иллюзию. Подсказки оставлены, по ним придётся пройтись самому.\n\nМедитация — навык отделять себя от киноплёнки. Смотришь кино и не путаешь себя с актёром. Замечаешь, что ложки нет: страдание создано твоим же восприятием."
         },
         {
           "id": "404",

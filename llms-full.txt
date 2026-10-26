@@ -219,7 +219,7 @@ Don't fight. Use everything for yourself.
 >
 > — Alan Watts
 
-Either life does you, or you're in it, or you do it.
+Either life does you in, or you're in it, or you're above it.
 
 Work **on** your life, not **in** it.
 
@@ -2047,6 +2047,24 @@ Shift it from words to sensations, and you can tell true desires from borrowed o
 An internal locus is the driver. Win: "I practiced." Lose: "Next time, harder."
 
 An external one is the passenger. Win: "Got lucky." Lose: "The universe is against me."
+
+---
+
+# Eightfold Path
+
+https://tellothers.com/eightfold-path
+
+> Ethics, wisdom, meditation
+
+There is one truth. If you're headed the right way, it doesn't matter which road you take.
+
+The eight steps of the Middle Way fall into three parts: ethics, wisdom and meditation.
+
+Ethics: tell the truth, do good. Live with dignity, don't deceive, don't harm others.
+
+Wisdom: good intentions and the ability to see through the illusion. The clues are left for you, but you have to follow them yourself.
+
+Meditation: the skill of stepping back from the film reel. You watch the movie without mistaking yourself for the actor. You notice there is no spoon: your suffering is made by your own perception.
 
 ---
 
@@ -4101,3 +4119,21 @@ https://tellothers.com/ru/locus
 Внутренний локус — водитель. Выиграл: «Я тренировался». Проиграл: «В следующий раз сильнее».
 
 Внешний — пассажир. Выиграл: «Повезло». Проиграл: «Вселенная против меня».
+
+---
+
+# Восьмеричный путь
+
+https://tellothers.com/ru/eightfold-path
+
+> Мораль, мудрость, медитация
+
+Истина одна. Если направление верное — неважно, каким путём ты идёшь.
+
+Восемь ступеней Срединного пути складываются в три части. Запомнить легко — МММ: мораль, мудрость и медитация.
+
+Мораль — говори правду, неси добро. Живи достойно, не обманывай и не вреди другим.
+
+Мудрость — добрые намерения и способность видеть сквозь иллюзию. Подсказки оставлены, по ним придётся пройтись самому.
+
+Медитация — навык отделять себя от киноплёнки. Смотришь кино и не путаешь себя с актёром. Замечаешь, что ложки нет: страдание создано твоим же восприятием.
