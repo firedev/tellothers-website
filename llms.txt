@@ -168,7 +168,7 @@ Full text of every card: https://tellothers.com/llms-full.txt
 - [Проснись](https://tellothers.com/ru/wake-up): Ты спишь
 - [То, что есть](https://tellothers.com/ru/what-it-is): Чего нет — не существует
 - [Мозг — приёмник](https://tellothers.com/ru/brain-receiver): Перчатка на руке бога
-- [Проверь реальность](https://tellothers.com/ru/question-reality): То, чем кажется, и то, что есть
+- [Проверь реальность](https://tellothers.com/ru/question-reality): Что кажется и что есть
 - [На самом деле](https://tellothers.com/ru/for-real): Никакого этого самого дела нет
 - [Фильтруй базар](https://tellothers.com/ru/watch-your-mouth): Слова реальны. Хотя ничего не реально
 - [Расти внутрь](https://tellothers.com/ru/grow-inward): Базовая реальность — тонкий слой
