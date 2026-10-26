@@ -96,6 +96,7 @@ Full text of every card: https://tellothers.com/llms-full.txt
 - [Lying](https://tellothers.com/lying): Sam Harris. Honest people are a shelter
 - [Truth](https://tellothers.com/truth): Hector Macdonald. The same fact, told many ways
 - [Free Will](https://tellothers.com/free-will): Sam Harris. The decision lands before you do
+- [The Bitcoin Standard](https://tellothers.com/bitcoin-standard): Saifedean Ammous. A brief history of money
 
 ## Watch
 
@@ -229,6 +230,7 @@ Full text of every card: https://tellothers.com/llms-full.txt
 - [Ложь](https://tellothers.com/ru/lying): Сэм Харрис. Честные люди — убежище
 - [Правда](https://tellothers.com/ru/truth): Гектор Макдональд. Один факт — много подач
 - [Свобода воли](https://tellothers.com/ru/free-will): Сэм Харрис. Решение приходит раньше тебя
+- [The Bitcoin Standard](https://tellothers.com/ru/bitcoin-standard): Сайфедин Аммус. Краткая история денег
 
 ## Смотри (Русский)
 

@@ -1656,6 +1656,30 @@
           "content": "Мозг принимает решение раньше, чем ты о нём узнаёшь. То, что ты называешь выбором, — история, рассказанная задним числом и подогнанная под уже случившееся.\n\nХаррис относится к этому всерьёз и доводит до конца. Если мысль, которая тебя двинула, пришла сама — за ней нет автора, которого стоит винить или хвалить.\n\nОтветственность это переживает. Не переживает ненависть к себе за сделанное — и гордость, которая работает на том же топливе.\n\nЧитай."
         },
         {
+          "id": "bitcoin-standard",
+          "title": "The Bitcoin Standard",
+          "collection": {
+            "label": "cards",
+            "name": "Cards"
+          },
+          "categories": "",
+          "tags": "",
+          "url": "/bitcoin-standard",
+          "content": "Saifedean Ammous is a Palestinian-Jordanian economist who taught at the Lebanese American University.\n\nThe story of money: from seashells and beads, through gold, to the money governments print.\n\nRead it to see that money exists only as long as we believe in it."
+        },
+        {
+          "id": "ru-bitcoin-standard",
+          "title": "The Bitcoin Standard",
+          "collection": {
+            "label": "cards",
+            "name": "Cards"
+          },
+          "categories": "",
+          "tags": "",
+          "url": "/ru/bitcoin-standard",
+          "content": "Сайфедин Аммус — палестино-иорданский экономист, преподавал в Ливанском американском университете.\n\nИстория денег: от ракушек и бус через золото к деньгам, которые печатает государство.\n\nЧитай, чтобы понять: деньги существуют, только пока мы в них верим."
+        },
+        {
           "id": "watch",
           "title": "Watch",
           "collection": {
