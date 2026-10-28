@@ -102,7 +102,7 @@ Full text of every card: https://tellothers.com/llms-full.txt
 - [Watch](https://tellothers.com/watch): See your life in a movie
 - [Arrival](https://tellothers.com/arrival): Meaning comes first
 - [Click](https://tellothers.com/click): The lights are on, but nobody's home
-- [The Matrix](https://tellothers.com/the-matrix): Waking up into real life
+- [The Matrix](https://tellothers.com/the-matrix): Wake up into real life
 - [The Life of Chuck](https://tellothers.com/the-life-of-chuck): You carry the world in your head
 - [Generation P](https://tellothers.com/generation-p): Gets your brain going
 - [Soul](https://tellothers.com/soul): What music is playing inside you
@@ -238,7 +238,7 @@ Full text of every card: https://tellothers.com/llms-full.txt
 - [Смотри](https://tellothers.com/ru/watch): Увидеть в кино свою жизнь
 - [Прибытие](https://tellothers.com/ru/arrival): Сначала — смысл
 - [Клик: С пультом по жизни](https://tellothers.com/ru/click): Свет горит, а никого дома нет
-- [Матрица](https://tellothers.com/ru/the-matrix): Пробуждаешься в настоящую жизнь
+- [Матрица](https://tellothers.com/ru/the-matrix): Пробуждайся в настоящую жизнь
 - [Жизнь Чака](https://tellothers.com/ru/the-life-of-chuck): Ты носишь мир в голове
 - [Generation П](https://tellothers.com/ru/generation-p): Мозги зашевелились
 - [Душа](https://tellothers.com/ru/soul): Какая музыка играет у тебя внутри
