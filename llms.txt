@@ -112,6 +112,8 @@ Full text of every card: https://tellothers.com/llms-full.txt
 - [Sliding Doors](https://tellothers.com/sliding-doors): You always live the branch where you survived
 - [Cyberpunk: Edgerunners](https://tellothers.com/cyberpunk-edgerunners): How beliefs shape the world
 - [Pantheon](https://tellothers.com/pantheon): Deep states of the mind
+- [Severance](https://tellothers.com/severance): Those 8 hours take you with them
+- [What Dreams May Come](https://tellothers.com/what-dreams-may-come): Everyone has a universe of their own
 
 ## Glossary
 
@@ -246,6 +248,8 @@ Full text of every card: https://tellothers.com/llms-full.txt
 - [Осторожно, двери закрываются](https://tellothers.com/ru/sliding-doors): Ты всегда живёшь ветку, где выжил
 - [Киберпанк: Бегущие по краю](https://tellothers.com/ru/cyberpunk-edgerunners): Как убеждения создают мир
 - [Пантеон](https://tellothers.com/ru/pantheon): Глубокие состояния ума
+- [Разделение](https://tellothers.com/ru/severance): 8 часов забирают тебя с собой
+- [Куда приводят мечты](https://tellothers.com/ru/what-dreams-may-come): У каждого своя вселенная
 
 ## Словарь (Русский)
 

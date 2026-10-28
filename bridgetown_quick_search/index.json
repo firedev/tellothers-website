@@ -1968,6 +1968,54 @@
           "content": "Анимационный сериал на Prime Video. Лучшее изображение глубоких состояний ума.\n\nПосле «Пантеона» вся фантастика, что я смотрел до этого, выглядит плоской. Столько слоёв. Это видео-иллюстрация к «Transhumanism Inc.» Пелевина, и «Трансгуманизм» вышел на год раньше.\n\nСмотри."
         },
         {
+          "id": "severance",
+          "title": "Severance",
+          "collection": {
+            "label": "cards",
+            "name": "Cards"
+          },
+          "categories": "",
+          "tags": "",
+          "url": "/severance",
+          "content": "An Apple TV series. At work they can&#8217;t remember home. At home they can&#8217;t remember work.\n\n\n  The surest way to tame a prisoner is to let him believe he&#8217;s free.\n\n\nFeels like office life. The part of you outside work starts to die. Those 8 hours don&#8217;t go anywhere. They take you with them.\n\nWork for yourself."
+        },
+        {
+          "id": "ru-severance",
+          "title": "Разделение",
+          "collection": {
+            "label": "cards",
+            "name": "Cards"
+          },
+          "categories": "",
+          "tags": "",
+          "url": "/ru/severance",
+          "content": "Сериал на Apple TV. На работе люди не помнят дом, дома — работу.\n\n\n  The surest way to tame a prisoner is to let him believe he’s free.\n\n\nПохоже на офис. Часть тебя вне работы будто отмирает. 8 часов никуда не деваются. И они забирают с собой тебя.\n\nРаботай на себя."
+        },
+        {
+          "id": "what-dreams-may-come",
+          "title": "What Dreams May Come",
+          "collection": {
+            "label": "cards",
+            "name": "Cards"
+          },
+          "categories": "",
+          "tags": "",
+          "url": "/what-dreams-may-come",
+          "content": "After he dies, he wakes up in a heaven painted in his wife&#8217;s colors. She is stuck in a hell of her own making. He goes after her.\n\n\n  Thought is real. Physical is the illusion.\n\n  &#8220;Here&#8221; is big enough for everyone to have their own private universe.\n\n  What&#8217;s true in our minds is true, whether some people know it or not.\n\n\nYour own bubble of reality, and the patterns on it are yours alone."
+        },
+        {
+          "id": "ru-what-dreams-may-come",
+          "title": "Куда приводят мечты",
+          "collection": {
+            "label": "cards",
+            "name": "Cards"
+          },
+          "categories": "",
+          "tags": "",
+          "url": "/ru/what-dreams-may-come",
+          "content": "После смерти он попадает в рай, написанный красками жены. Она застряла в аду, который построила себе сама. Он идёт за ней.\n\n\n  Thought is real. Physical is the illusion.\n\n  “Here” is big enough for everyone to have their own private universe.\n\n  What’s true in our minds is true, whether some people know it or not.\n\n\nНадут твой личный пузырь реальности, и узоры на нём — только твои."
+        },
+        {
           "id": "karma",
           "title": "Karma",
           "collection": {
